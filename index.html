@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OCR Helper</title>
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" href="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"/>
+    <script src="js/jquery-3.3.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="//unpkg.com/babel-polyfill@latest/dist/polyfill.min.js"></script>
+    <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
+
+</head>
+<body>
+<div id="app">
+    <div class="container-fluid">
+
+        <b-table bordered dark :items="items" :fields="fields">
+
+            <template slot="id" slot-scope="row">
+                <b-button size="sm" @click.stop="row.toggleDetails" class="mr-2">
+                    {{ row.detailsShowing ? 'Hide' : 'Show'}} Details
+                </b-button>
+            </template>
+            <!--<template slot="id" slot-scope="row">-->
+                <!--<b-card>-->
+                    <!--<b-row class="mb-2">-->
+                        <!--<b-col sm="3" class="text-sm-right"><b>Id:</b></b-col>-->
+                        <!--<b-col>{{ row.item.id }}</b-col>-->
+                    <!--</b-row>-->
+                    <!--<b-button size="sm" @click="row.toggleDetails">Hide Details</b-button>-->
+                <!--</b-card>-->
+            <!--</template>-->
+
+
+            <span slot="Document Processing" slot-scope="data" v-html="data.value" class="text-center text-nowrap"></span>
+            <span slot="Credit Report" slot-scope="data" v-html="data.value"></span>
+        </b-table>
+    </div>
+</div>
+<script src="js/index.js"></script>
+</body>
+</html>

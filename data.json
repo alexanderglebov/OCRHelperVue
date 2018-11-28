@@ -1,54 +1,98 @@
 {
   "oppos" : [
+{
+  "id" : "0066C000104t9w2QAY",
+  "oppoName" : "Test - 3333",
+  "processes" : [
     {
-    "id" : "0066C000014t9MGQAY",
-    "oppoName" : "Vue test - 3",
-    "processes" : [
-      {
-        "processName" : "Credit Report",
-        "stages" : [
-          {
-            "stageNameStr" : "CBCPulled",
-            "stageStatus" : {
-              "statusStr" : "ErrorStStatus",
-              "log" : "unexpected HTTP status: 400 Bad Request",
-              "errors" : [
-              ]
-            }
+      "processName" : "Document Processing",
+      "stages" : [
+        {
+          "stageNameStr" : "DocumentsDownloaded",
+          "stageStatus" : {
+            "statusStr" : "CompletedStStatus",
+            "log" : "Inbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html",
+            "errors" : [
+            ]
           }
-        ]
-      },
-      {
-        "processName" : "Document Processing",
-        "stages" : [
-          {
-            "stageNameStr" : "DocumentsDownloaded",
-            "stageStatus" : {
-              "statusStr" : "CompletedStStatus",
-              "log" : "Inbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html",
-              "errors" : [
-              ]
-            }
-          },
-          {
-            "stageNameStr" : "FilesAttached",
-            "stageStatus" : {
-              "statusStr" : "ErrorStStatus",
-              "log" : "Test log 2",
-              "errors" : [
-              ]
-            }
+        },
+        {
+          "stageNameStr" : "FilesAttached",
+          "stageStatus" : {
+            "statusStr" : "CompletedStStatus",
+            "log" : "Test log 2",
+            "errors" : [
+            ]
           }
-        ]
-      }
-    ]
-  },
+        },
+        {
+          "stageNameStr" : "IntegrityValidated",
+          "stageStatus" : {
+            "statusStr" : "ErrorStStatus",
+            "log" : "Test log 2",
+            "errors" : [
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},
     {
-      "id" : "0066C000004t9MGQAY",
-      "oppoName" : "SPRINGBOARD VIRTUAL REALITY LLC 10/1 - 24",
+      "id" : "0066C000024t9MGQAY",
+      "oppoName" : "Some another test oppo - 244",
       "processes" : [
         {
-          "processName" : "Cdit Report",
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Inbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageStatus" : {
+                "statusStr" : "ErrorStStatus",
+                "log" : "Test log 2",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "0066C000001t9MGQAY",
+      "oppoName" : "SPRINGBOARD VIRTUAL REALITY LLC - 10/17/2018 - 24",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageStatus" : {
+                "statusStr" : "StoppedStStatus",
+                "log" : "",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "0066C000054t9M2QAY",
+      "oppoName" : "Test - 24",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
           "stages" : [
             {
               "stageNameStr" : "CBCPulled",
@@ -87,7 +131,7 @@
       ]
     },
     {
-      "id" : "1166C000004t9M3QAY",
+      "id" : "1166C000004t9s3QAY",
       "oppoName" : "Test Oppo - 10/17/2018 - 24",
       "processes" : [
         {
@@ -144,6 +188,24 @@
               }
             },
             {
+              "stageNameStr" : "AdvancesValidated",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "TrueRevenue",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "",
+                "errors" : [
+                ]
+              }
+            },
+            {
               "stageNameStr" : "SubmissionValidated",
               "stageStatus" : {
                 "statusStr" : "CompletedStStatus",
@@ -167,19 +229,18 @@
     }
   ],
   "processes" : {
-  "Credit Report" : [
-    "CBCPulled"
-  ],
-    "New process" : [
-      "TestProcess"
-    ],
     "Document Processing" : [
       "DocumentsDownloaded",
       "FilesAttached",
       "IntegrityValidated",
       "AccountChosen",
+      "AdvancesValidated",
+      "TrueRevenue",
       "SubmissionValidated",
       "ExportedToSF"
+    ],
+    "Credit Report" : [
+      "CBCPulled"
     ]
   },
   "appVersion" : "web-2.3.6"
