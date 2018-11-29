@@ -8,8 +8,6 @@ const data = {
 var app2 = new Vue({
   el: '#newApp',
   data: data,
-  // created: fetchData,
-  // updated: fetchData,
 })
 
 
@@ -49,13 +47,40 @@ function fetchData() {
 function getItems(oppos) {
   var items = []
   oppos.forEach(function (oppo) {
-    var item = {id: oppo.id, oppoName: oppo.oppoName}
+    var item = {id: oppo.id, oppoName: oppo.oppoName, dpButton: {stageName: '', color: ''}}
     item = addButtonsToItem(oppo, item)
-    // console.log(item)
+    item.dpButton = addLastDocProcessStageButton(oppo)
     items.push(item)
   })
-  //console.log(items)
   return items
+}
+
+function addLastDocProcessStageButton(oppo) {
+  var dpButton = {}
+  oppo.processes.forEach(function (process) {
+   var stage = process.stages[process.stages.length - 1]
+    dpButton.stageName = stage.stageNameStr
+    switch (stage.stageStatus.statusStr)  {
+      case 'CompletedStStatus':
+        dpButton.color = 'btn-success2'
+        break
+      case 'ErrorStStatus':
+        dpButton.color = 'btn-danger1'
+        break
+      case  'InProcessStStatus':
+        dpButton.color = 'btn-warning'
+        break
+      case 'NotStartedStStatus':
+        dpButton.color = 'btn-secondary'
+        break
+      case 'StoppedStStatus':
+        dpButton.color = 'btn-info'
+        break
+      default:
+        break
+    }
+  })
+  return dpButton
 }
 
 function addButtonsToItem(oppo, item) {

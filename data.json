@@ -68,17 +68,26 @@
       ]
     },
     {
-      "id" : "0066C000001t9MGQAY",
-      "oppoName" : "SPRINGBOARD VIRTUAL REALITY LLC - 10/17/2018 - 24",
+      "id" : "0066C002024t9MGQAY",
+      "oppoName" : "Some another test oppo - 333",
       "processes" : [
         {
-          "processName" : "Credit Report",
+          "processName" : "Document Processing",
           "stages" : [
             {
-              "stageNameStr" : "CBCPulled",
+              "stageNameStr" : "DocumentsDownloaded",
               "stageStatus" : {
-                "statusStr" : "StoppedStStatus",
-                "log" : "",
+                "statusStr" : "CompletedStStatus",
+                "log" : "Inbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html\nInbox/BankOfAmerica/CCR__PAUL_BURNIA.html",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageStatus" : {
+                "statusStr" : "ErrorStStatus",
+                "log" : "Test log 2",
                 "errors" : [
                 ]
               }
@@ -234,9 +243,9 @@
       "FilesAttached",
       "IntegrityValidated",
       "AccountChosen",
+      "SubmissionValidated",
       "AdvancesValidated",
       "TrueRevenue",
-      "SubmissionValidated",
       "ExportedToSF"
     ],
     "Credit Report" : [
