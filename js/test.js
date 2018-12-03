@@ -5,7 +5,7 @@ const data = {
   fields: []//showHeaders(myJson)
 }
 
-var app2 = new Vue({
+new Vue({
   el: '#newApp',
   data: data,
 })
@@ -37,6 +37,7 @@ function fetchData() {
       // applying opened status to new rows
       data.items = getItems(myJson.oppos).map(row => {
         if (openedIds.includes(row.id)) {
+          console.log(row)
           row._showDetails = true
         }
         return row
@@ -47,37 +48,41 @@ function fetchData() {
 function getItems(oppos) {
   var items = []
   oppos.forEach(function (oppo) {
-    var item = {id: oppo.id, oppoName: oppo.oppoName, dpButton: {stageName: '', color: ''}}
+    var item = {id: oppo.id, oppoName: oppo.oppoName, crButton: {stageName: '', color: ''}, dpButton: {stageName: '', color: ''}}
     item = addButtonsToItem(oppo, item)
-    item.dpButton = addLastDocProcessStageButton(oppo)
+    item.dpButton = addLastDocProcessStageButton(oppo, 'Document Processing')
+    item.crButton = addLastDocProcessStageButton(oppo, 'Credit Report')
     items.push(item)
+   // console.log(items)
   })
   return items
 }
 
-function addLastDocProcessStageButton(oppo) {
+function addLastDocProcessStageButton(oppo, procc) {
   var dpButton = {}
   oppo.processes.forEach(function (process) {
-   var stage = process.stages[process.stages.length - 1]
-    dpButton.stageName = stage.stageNameStr
-    switch (stage.stageStatus.statusStr)  {
-      case 'CompletedStStatus':
-        dpButton.color = 'btn-success2'
-        break
-      case 'ErrorStStatus':
-        dpButton.color = 'btn-danger1'
-        break
-      case  'InProcessStStatus':
-        dpButton.color = 'btn-warning'
-        break
-      case 'NotStartedStStatus':
-        dpButton.color = 'btn-secondary'
-        break
-      case 'StoppedStStatus':
-        dpButton.color = 'btn-info'
-        break
-      default:
-        break
+    if (process.processName === procc) {
+      var stage = process.stages[process.stages.length - 1]
+      dpButton.stageName = stage.stageNameStr
+      switch (stage.stageStatus.statusStr) {
+        case 'CompletedStStatus':
+          dpButton.color = 'btn-success2'
+          break
+        case 'ErrorStStatus':
+          dpButton.color = 'btn-danger1'
+          break
+        case  'InProcessStStatus':
+          dpButton.color = 'btn-warning'
+          break
+        case 'NotStartedStStatus':
+          dpButton.color = 'btn-secondary'
+          break
+        case 'StoppedStStatus':
+          dpButton.color = 'btn-info'
+          break
+        default:
+          break
+      }
     }
   })
   return dpButton
@@ -111,3 +116,27 @@ function addButton(stage) {
       break
   }
 }
+
+function setAppVersion () {
+  window.fetch('data.json')
+  //  window.fetch('/status')
+    .then(function (response) {
+      if (response.status !== 200) {
+        window.alert('Data fetch error, ' + 'status is: ' + response.status + ' ' + response.statusText)
+      }
+      return response.json()
+    })
+    .then(function (myJson) {
+      if (myJson.appVersion !== undefined) {
+        setVersion(myJson.appVersion)
+      }
+    })
+}
+
+function setVersion (version) {
+  $(document).ready(function () {
+    $('#ocr-title').append('<span style="font-size: small; color: #737b81"> &nbsp;' + version + '</span>')
+  })
+}
+
+setAppVersion()

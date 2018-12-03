@@ -11,29 +11,55 @@
     <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
 </head>
 <body>
-
 <div id="newApp">
+
 <template>
+    <b-navbar class="my-bg-dark" toggleable="md" type="dark" variant="info">
+
+        <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
+        <img src="img/arcarius.png" width="40" height="40" />
+        <b-navbar-brand href="#" id="ocr-title">OCR Helper</b-navbar-brand>
+        <b-collapse is-nav id="nav_collapse">
+
+            <!-- Right aligned nav items -->
+            <b-navbar-nav class="ml-auto">
+                <b-nav-item-dropdown text="Menu" right>
+                    <b-dropdown-item href="#">Keywords</b-dropdown-item>
+                </b-nav-item-dropdown>
+            </b-navbar-nav>
+        </b-collapse>
+    </b-navbar>
     <b-table dark :items="items" :fields="fields">
-        <template slot="Document Processing" slot-scope="row">
+        <template slot="Document Processing" slot-scope="row" class="text-center">
             <!-- we use @click.stop here to prevent emitting of a 'row-clicked' event  -->
+            <div class="text-nowrap text-center">
             <b-button size="sm" @click.stop="row.toggleDetails" v-bind:class="row.item.dpButton.color" class="mr-2">
                 {{ row.item.dpButton.stageName }}
             </b-button>
+            </div>
 
-            <!--v-text="row.item['Document Processing']"-->
+            <!-- In some circumstances you may need to use @click.native.stop instead -->
+            <!-- As `row.showDetails` is one-way, we call the toggleDetails function on @change -->
+        </template>
+        <template slot="Credit Report" slot-scope="row" class="text-center">
+            <!-- we use @click.stop here to prevent emitting of a 'row-clicked' event  -->
+            <div class="text-nowrap text-center">
+                <b-button size="sm" @click.stop="row.toggleDetails" v-bind:class="row.item.crButton.color" class="mr-2">
+                    {{ row.item.crButton.stageName }}
+                </b-button>
+            </div>
+
             <!-- In some circumstances you may need to use @click.native.stop instead -->
             <!-- As `row.showDetails` is one-way, we call the toggleDetails function on @change -->
         </template>
         <template slot="row-details" slot-scope="row">
             <b-card class="bg-dark">
                 <b-row class="mb-2">
-                    <b-col  class="text-center text-nowrap"><span v-html="row.item['Document Processing']">{{ row.item['Document Processing'] }}</span></b-col>
+                    <b-col class="text-center text-nowrap"><span v-html="row.item['Credit Report']">{{ row.item['Credit Report'] }}</span></b-col>
                 </b-row>
             </b-card>
         </template>
-        <!--<span slot="row-details" slot-scope="row" v-html="data.value"></span>-->
-        <span slot="Credit Report" slot-scope="data" v-html="data.value"></span>
+
     </b-table>
 </template>
 </div>
