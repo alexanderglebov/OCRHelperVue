@@ -1,6 +1,5 @@
 
-
-const data = {
+const data = window.data = {
   items: [],//getItems(myJson.oppos),
   fields: []//showHeaders(myJson)
 }
@@ -8,6 +7,13 @@ const data = {
 new Vue({
   el: '#newApp',
   data: data,
+  methods: {
+    change: function (item, someData) {
+      item._detailsItem = item[someData]
+      this.$set(item, '_showDetails', item._detailsItemName === someData ? !item._showDetails : true)
+      item._detailsItemName = someData
+    }
+  }
 })
 
 
@@ -32,15 +38,20 @@ function fetchData() {
     })
     .then(function (myJson) {
       // remember opened rows
-      var openedIds = data.items.filter(row => row._showDetails).map(row => row.id)
+       var openedDetails = data.items.filter(row => row._showDetails)
+     // console.log(openedDetails)
       data.fields = showHeaders(myJson)
       // applying opened status to new rows
-      data.items = getItems(myJson.oppos).map(row => {
-        if (openedIds.includes(row.id)) {
-          console.log(row)
-          row._showDetails = true
+      data.items = getItems(myJson.oppos).map(newRow => {
+
+        const row = openedDetails.find(o => o.id === newRow.id)
+        if (row) {
+          newRow._showDetails = row._showDetails
+          newRow._detailsItemName = row._detailsItemName
+          newRow._detailsItem = row._detailsItem
         }
-        return row
+
+        return newRow
       })
     })
 }
