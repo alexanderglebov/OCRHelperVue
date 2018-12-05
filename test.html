@@ -55,7 +55,9 @@
         <template slot="row-details" slot-scope="row">
             <b-card class="bg-dark">
                 <b-row class="mb-2">
-                    <b-col class="text-center text-nowrap"><span id="detailsSpan" v-html="row.item._detailsItem"></span></b-col>
+                    <b-col class="text-center text-nowrap"><span id="detailsSpan" v-for="item in row.item[row.item._detailsItemName]">
+                        <button :class="{ 'btn' : true, 'btn-sm' : true, 'btn-success2' : item.status === 'CompletedStStatus', 'btn-danger1' : item.status === 'ErrorStStatus', 'btn-warning' : item.status === 'InProcessStStatus', 'btn-secondary' : item.status === 'NotStartedStStatus', 'btn-info' : item.status === 'StoppedStStatus'}"> {{ item.name }} </button> &nbsp;
+                    </span></b-col>
                 </b-row>
             </b-card>
         </template>

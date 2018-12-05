@@ -8,10 +8,11 @@ new Vue({
   el: '#newApp',
   data: data,
   methods: {
-    change: function (item, someData) {
-      item._detailsItem = item[someData]
-      this.$set(item, '_showDetails', item._detailsItemName === someData ? !item._showDetails : true)
-      item._detailsItemName = someData
+   change: function (item, someData) {
+
+      //  item._detailsItem = item[someData]
+        this.$set(item, '_showDetails', item._detailsItemName === someData ? !item._showDetails : true)
+        item._detailsItemName = someData
     }
   }
 })
@@ -48,7 +49,7 @@ function fetchData() {
         if (row) {
           newRow._showDetails = row._showDetails
           newRow._detailsItemName = row._detailsItemName
-          newRow._detailsItem = row._detailsItem
+         // newRow._detailsItem = row._detailsItem
         }
 
         return newRow
@@ -64,7 +65,6 @@ function getItems(oppos) {
     item.dpButton = addLastDocProcessStageButton(oppo, 'Document Processing')
     item.crButton = addLastDocProcessStageButton(oppo, 'Credit Report')
     items.push(item)
-   // console.log(items)
   })
   return items
 }
@@ -101,15 +101,33 @@ function addLastDocProcessStageButton(oppo, procc) {
 
 function addButtonsToItem(oppo, item) {
   oppo.processes.forEach(function (process) {
-    var htmlButtons = ''
-    process.stages.forEach(function (stage) {
-      htmlButtons += addButton(stage) + ' '
-    })
-
-    item[process.processName] = htmlButtons
+    if (process.processName === 'Credit Report') {
+      var buttons = []
+      process.stages.forEach(function (stage) {
+        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr})
+      })
+      item[process.processName] = buttons
+    } else if (process.processName === 'Document Processing') {
+      var buttons = []
+      process.stages.forEach(function (stage) {
+        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr})
+      })
+      item[process.processName] = buttons
+    }
   })
+//  console.log(item)
   return item
 }
+
+// const t = {
+//   btn: true,
+//   'btn-sm': true,
+//   'btn-success2': buttonData.statusStr === CompletedStStatus,
+//   'btn-success2': buttonData.statusStr === CompletedStStatus,
+//   'btn-success2': buttonData.statusStr === CompletedStStatus,
+//   'btn-success2': buttonData.statusStr === CompletedStStatus,
+//   'btn-success2': buttonData.statusStr === CompletedStStatus,
+// }
 
 function addButton(stage) {
   switch (stage.stageStatus.statusStr) {

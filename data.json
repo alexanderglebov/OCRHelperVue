@@ -19,7 +19,7 @@
             {
               "stageNameStr" : "CreditDecline",
               "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
+                "statusStr" : "StoppedStStatus",
                 "log" : "all ok",
                 "errors" : [
                 ]
@@ -71,7 +71,7 @@
             {
               "stageNameStr" : "CreditDecline",
               "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
+                "statusStr" : "NotStartedStStatus",
                 "log" : "all ok",
                 "errors" : [
                 ]
@@ -94,7 +94,25 @@
             {
               "stageNameStr" : "FilesAttached",
               "stageStatus" : {
-                "statusStr" : "ErrorStStatus",
+                "statusStr" : "CompletedStStatus",
+                "log" : "ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Can't attach files automatically",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AccountChosen",
+              "stageStatus" : {
+                "statusStr" : "InProcessStStatus",
                 "log" : "Can't attach files automatically",
                 "errors" : [
                 ]
@@ -136,6 +154,15 @@
             },
             {
               "stageNameStr" : "FilesAttached",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
               "stageStatus" : {
                 "statusStr" : "ErrorStStatus",
                 "log" : "Can't attach files automatically",
