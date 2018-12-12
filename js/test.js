@@ -1,23 +1,67 @@
 
 const data = window.data = {
   items: [],//getItems(myJson.oppos),
-  fields: []//showHeaders(myJson)
+  fields: [],//showHeaders(myJson)
+  showModal: false,
+  currentItemId: null,
+  stageName: ''
+
 }
+
 
 new Vue({
   el: '#newApp',
   data: data,
   methods: {
-   change: function (item, someData) {
+   change: function (item, processName) {
 
-      //  item._detailsItem = item[someData]
-        this.$set(item, '_showDetails', item._detailsItemName === someData ? !item._showDetails : true)
-        item._detailsItemName = someData
+     //  item._detailsItem = item[someData]
+     this.$set(item, '_showDetails', item._detailsItemName === processName ? !item._showDetails : true)
+     item._detailsItemName = processName
+   },
+    hidePopUp: function () {
+      this.$refs.logModal.hideModal()
+    },
+    showPopUp: function (item, stageName) {
+
+      console.log(item)
+      this.currentItemId = item
+      this.stageName = stageName
+   //  console.log('item:', item, 'stageNme:', stageName)
+      switch (stageName) {
+        case 'DocumentsDownloaded': console.log('DD')
+          break
+        case 'FilesAttached': console.log('FA')
+          break
+        case 'AccountChosen': console.log('AC')
+          break
+        default: this.$refs.logModal.showModal()
+      }
     }
+    // },
+    // showLogModal (stageName) {
+    //   this.$refs.logModalRef.show()
+    // },
+    // hideModal () {
+    //   this.$refs.logModalRef.hide()
+    // },
+    // showPopUp: function (item, stageName) {
+    //   switch (stageName) {
+    //     case 'DocumentsDownloaded': console.log('DD')
+    //       break
+    //     case 'FilesAttached': console.log('FA')
+    //       break
+    //     case 'AccountChosen': console.log('AC')
+    //       break
+    //     default: this.showLogModal(stageName)
+    //   }
+    // }
   }
 })
 
-
+ // function showLogModal() {
+ //   $('#log-modal').show
+ // }
 
 function showHeaders(json) {
   var headers = ['id', {key: 'oppoName', label: 'Opportunity Name'}]
@@ -104,46 +148,18 @@ function addButtonsToItem(oppo, item) {
     if (process.processName === 'Credit Report') {
       var buttons = []
       process.stages.forEach(function (stage) {
-        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr})
+        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr, log: stage.stageStatus.log})
       })
       item[process.processName] = buttons
     } else if (process.processName === 'Document Processing') {
       var buttons = []
       process.stages.forEach(function (stage) {
-        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr})
+        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr, log: stage.stageStatus.log})
       })
       item[process.processName] = buttons
     }
   })
-//  console.log(item)
   return item
-}
-
-// const t = {
-//   btn: true,
-//   'btn-sm': true,
-//   'btn-success2': buttonData.statusStr === CompletedStStatus,
-//   'btn-success2': buttonData.statusStr === CompletedStStatus,
-//   'btn-success2': buttonData.statusStr === CompletedStStatus,
-//   'btn-success2': buttonData.statusStr === CompletedStStatus,
-//   'btn-success2': buttonData.statusStr === CompletedStStatus,
-// }
-
-function addButton(stage) {
-  switch (stage.stageStatus.statusStr) {
-    case 'CompletedStStatus':
-      return '<input type="button" value="' + stage.stageNameStr + '" class="btn btn-success2 btn-sm">'
-    case 'ErrorStStatus':
-      return '<input type="button" value="' + stage.stageNameStr + '" class="btn btn-danger1 btn-sm">'
-    case 'InProcessStStatus':
-      return '<input type="button" value="' + stage.stageNameStr + '" class="btn btn-warning btn-sm">'
-    case 'NotStartedStStatus':
-      return '<input type="button" value="' + stage.stageNameStr + '" class="btn btn-secondary btn-sm">'
-    case 'StoppedStStatus':
-      return '<input type="button" value="' + stage.stageNameStr + '" class="btn btn-info btn-sm">'
-    default:
-      break
-  }
 }
 
 function setAppVersion () {

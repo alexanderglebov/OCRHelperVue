@@ -1,19 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <title>OCR Helper</title>
     <link type="text/css" rel="stylesheet" href="css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="css/bootstrap-vue.css"/>
     <script src="js/jquery-3.3.1.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="//unpkg.com/babel-polyfill@latest/dist/polyfill.min.js"></script>
-    <script src="//unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
+    <script src="js/vue.js"></script>
+    <script src="js/log-modal.js"></script>
+    <script src="js/polyfill.min.js"></script>
+    <script src="js/bootstrap-vue.js"></script>
 </head>
 <body>
 <div id="newApp">
 
 <template>
+    <!--<blog-post v-bind:post="{title:'test', content:'something'}"></blog-post>-->
     <b-navbar class="my-bg-dark" toggleable="md" type="dark" variant="info">
 
         <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -29,7 +31,7 @@
             </b-navbar-nav>
         </b-collapse>
     </b-navbar>
-    <b-table dark :items="items" :fields="fields">
+    <b-table dark bordered :items="items" :fields="fields">
         <template slot="Document Processing" slot-scope="row" class="text-center">
             <!-- we use @click.stop here to prevent emitting of a 'row-clicked' event  -->
             <div class="text-nowrap text-center">
@@ -56,15 +58,24 @@
             <b-card class="bg-dark">
                 <b-row class="mb-2">
                     <b-col class="text-center text-nowrap"><span id="detailsSpan" v-for="item in row.item[row.item._detailsItemName]">
-                        <button :class="{ 'btn' : true, 'btn-sm' : true, 'btn-success2' : item.status === 'CompletedStStatus', 'btn-danger1' : item.status === 'ErrorStStatus', 'btn-warning' : item.status === 'InProcessStStatus', 'btn-secondary' : item.status === 'NotStartedStStatus', 'btn-info' : item.status === 'StoppedStStatus'}"> {{ item.name }} </button> &nbsp;
+                        <button :key="item.name" v-on:click="showPopUp(item.log, item.name)"  :class="{ 'btn' : true, 'btn-sm' : true, 'btn-success2' : item.status === 'CompletedStStatus', 'btn-danger1' : item.status === 'ErrorStStatus', 'btn-warning' : item.status === 'InProcessStStatus', 'btn-secondary' : item.status === 'NotStartedStStatus', 'btn-info' : item.status === 'StoppedStStatus'}"> {{ item.name }} </button> &nbsp;
                     </span></b-col>
                 </b-row>
             </b-card>
         </template>
 
     </b-table>
+<log-modal ref="logModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName">
+    <!--<b-modal ref="logModalRef" hide-footer title="row" id="logModal">-->
+        <!--<div class="d-block text-center">-->
+            <!--<h3></h3>-->
+        <!--</div>-->
+        <!--<b-btn class="mt-3" variant="outline-danger" block @click="hideModal">Close Me</b-btn>-->
+    <!--</b-modal>-->
+</log-modal>
 </template>
 </div>
+
 
 <script src="js/test.js"></script>
 
