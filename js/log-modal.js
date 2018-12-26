@@ -1,3 +1,6 @@
+//RESET STAGE NEEDED
+
+
 //Vue.component('blog-post', {
 Vue.component('log-modal',{
   props: ['item-id', 'stage-name'],
@@ -19,5 +22,5 @@ Vue.component('log-modal',{
   //   this.$refs.logModalRef.hide()
   // }
 // },
-  template: '<b-modal size="lg" ref="logModalRef" hide-footer :title="stageName" id="logModal"><div class="d-block text-center"><pre>{{itemId}}</pre></div><b-btn class="mt-3" variant="outline-danger" block @click="hideModal">Close Me</b-btn></b-modal>'
+  template: '<b-modal size="lg" ref="logModalRef" :title="stageName" id="logModal"><div class="d-block"><pre>{{itemId}}</pre></div><div slot="modal-footer" class="w-100"><b-btn @click="hideModal" class="float-right">Reset Stage</b-btn></b-btn></div></b-modal>'
 })

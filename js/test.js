@@ -19,19 +19,17 @@ new Vue({
      this.$set(item, '_showDetails', item._detailsItemName === processName ? !item._showDetails : true)
      item._detailsItemName = processName
    },
-    hidePopUp: function () {
-      this.$refs.logModal.hideModal()
-    },
+    // hidePopUp: function () {
+    //   this.$refs.logModal.hideModal()
+    // },
     showPopUp: function (item, stageName) {
-
-      console.log(item)
       this.currentItemId = item
       this.stageName = stageName
    //  console.log('item:', item, 'stageNme:', stageName)
       switch (stageName) {
-        case 'DocumentsDownloaded': console.log('DD')
+        case 'DocumentsDownloaded': this.$refs.logModal.showModal()
           break
-        case 'FilesAttached': console.log('FA')
+        case 'FilesAttached': this.$refs.filesAttachedModal.showModal()
           break
         case 'AccountChosen': console.log('AC')
           break

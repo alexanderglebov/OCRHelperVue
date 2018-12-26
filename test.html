@@ -8,6 +8,7 @@
     <script src="js/jquery-3.3.1.js"></script>
     <script src="js/vue.js"></script>
     <script src="js/log-modal.js"></script>
+    <script src="js/files-attached-modal.js"></script>
     <script src="js/polyfill.min.js"></script>
     <script src="js/bootstrap-vue.js"></script>
 </head>
@@ -66,13 +67,10 @@
 
     </b-table>
 <log-modal ref="logModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName">
-    <!--<b-modal ref="logModalRef" hide-footer title="row" id="logModal">-->
-        <!--<div class="d-block text-center">-->
-            <!--<h3></h3>-->
-        <!--</div>-->
-        <!--<b-btn class="mt-3" variant="outline-danger" block @click="hideModal">Close Me</b-btn>-->
-    <!--</b-modal>-->
+
 </log-modal>
+    <files-attached-modal ref="filesAttachedModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName">
+    </files-attached-modal>
 </template>
 </div>
 
