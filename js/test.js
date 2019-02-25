@@ -2,12 +2,14 @@
 const data = window.data = {
   items: [],//getItems(myJson.oppos),
   fields: [],//showHeaders(myJson)
+  processes: [],
   showModal: false,
   currentItemId: null,
   stageName: ''
 
 }
 
+var processes
 
 new Vue({
   el: '#newApp',
@@ -69,6 +71,14 @@ function showHeaders(json) {
   return headers
 }
 
+function showProcesses(json) {
+  var processes = []
+  for (var processName in json.processes){
+    processes.push(processName)
+  }
+  return processes
+}
+
 setInterval(fetchData, 1000)
 
 function fetchData() {
@@ -80,10 +90,13 @@ function fetchData() {
       return response.json()
     })
     .then(function (myJson) {
+      processes = myJson.processes
+
       // remember opened rows
        var openedDetails = data.items.filter(row => row._showDetails)
      // console.log(openedDetails)
       data.fields = showHeaders(myJson)
+      data.processes = showProcesses(myJson)
       // applying opened status to new rows
       data.items = getItems(myJson.oppos).map(newRow => {
 
@@ -100,61 +113,105 @@ function fetchData() {
 }
 
 function getItems(oppos) {
+  var processesNames = []
+  for (var key in processes) {
+    processesNames.push(key)
+  }
   var items = []
   oppos.forEach(function (oppo) {
     var item = {id: oppo.id, oppoName: oppo.oppoName, crButton: {stageName: '', color: ''}, dpButton: {stageName: '', color: ''}}
+    processesNames.forEach(function (processName) {
+      item[processName + 'Button'] = addLastDocProcessStageButton(oppo, processName)
+    })
     item = addButtonsToItem(oppo, item)
-    item.dpButton = addLastDocProcessStageButton(oppo, 'Document Processing')
-    item.crButton = addLastDocProcessStageButton(oppo, 'Credit Report')
+   // item.dpButton = addLastDocProcessStageButton(oppo, 'Document Processing')
+   // item.crButton = addLastDocProcessStageButton(oppo, 'Credit Report')
+    console.log(item)
     items.push(item)
   })
   return items
 }
 
 function addLastDocProcessStageButton(oppo, procc) {
-  var dpButton = {}
+  var button = {}
   oppo.processes.forEach(function (process) {
     if (process.processName === procc) {
       var stage = process.stages[process.stages.length - 1]
-      dpButton.stageName = stage.stageNameStr
+      button.stageName = stage.stageNameStr
       switch (stage.stageStatus.statusStr) {
         case 'CompletedStStatus':
-          dpButton.color = 'btn-success2'
+          button.color = 'btn-success2'
           break
         case 'ErrorStStatus':
-          dpButton.color = 'btn-danger1'
+          button.color = 'btn-danger1'
           break
         case  'InProcessStStatus':
-          dpButton.color = 'btn-warning'
+          button.color = 'btn-warning'
           break
         case 'NotStartedStStatus':
-          dpButton.color = 'btn-secondary'
+          button.color = 'btn-secondary'
           break
         case 'StoppedStStatus':
-          dpButton.color = 'btn-info'
+          button.color = 'btn-info'
           break
         default:
           break
       }
     }
   })
-  return dpButton
+  if (Object.entries(button).length === 0 && button.constructor === Object) {
+    button.color = 'btn-secondary'
+    button.stageName = 'Not Started'
+    return button
+  } else {
+    return button
+  }
 }
 
 function addButtonsToItem(oppo, item) {
+  var processesNames = []
+  for (var key in processes) {
+    processesNames.push(key)
+  }
   oppo.processes.forEach(function (process) {
-    if (process.processName === 'Credit Report') {
+   // if (processesNames.includes(process.processName)) {
+   // if (process.processName === 'Credit Report') {
+    //  console.log()
       var buttons = []
-      process.stages.forEach(function (stage) {
-        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr, log: stage.stageStatus.log})
+      processes[process.processName].forEach(function (stage) {
+        let stageInOppo = process.stages.filter(oppoStage => oppoStage.stageNameStr === stage)
+        if (stageInOppo[0] !== undefined) {
+          buttons.push({name: stageInOppo[0].stageNameStr, status: stageInOppo[0].stageStatus.statusStr, log: stageInOppo[0].stageStatus.log})
+        } else {
+          buttons.push({name: stage, status: 'NotStartedStStatus', log: 'Not Started'})
+        }
       })
+      // process.stages.forEach(function (stage) {
+      //   buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr, log: stage.stageStatus.log})
+      // })
       item[process.processName] = buttons
-    } else if (process.processName === 'Document Processing') {
-      var buttons = []
-      process.stages.forEach(function (stage) {
-        buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr, log: stage.stageStatus.log})
-      })
-      item[process.processName] = buttons
+ //   }
+    // else if (process.processName === 'Document Processing') {
+    //   var buttons = []
+    //
+    //   processes[process.processName].forEach(function (stage) {
+    //     let stageInOppo = process.stages.filter(oppoStage => oppoStage.stageNameStr === stage)
+    //     if (stageInOppo[0] !== undefined) {
+    //       buttons.push({name: stageInOppo[0].stageNameStr, status: stageInOppo[0].stageStatus.statusStr, log: stageInOppo[0].stageStatus.log})
+    //     } else {
+    //       buttons.push({name: stage, status: 'NotStartedStStatus', log: 'Not Started'})
+    //     }
+    //   })
+    //   // process.stages.forEach(function (stage) {
+    //   //   buttons.push({name: stage.stageNameStr, status: stage.stageStatus.statusStr, log: stage.stageStatus.log})
+    //   // })
+    //   item[process.processName] = buttons
+    // }
+  })
+  processesNames.forEach(function (processName) {
+    if (item[processName] === undefined) {
+      item[processName] = [{name: 'NotStarted', status: 'NotStartedStStatus', log: 'Not Started'}]
+     // console.log(item)
     }
   })
   return item

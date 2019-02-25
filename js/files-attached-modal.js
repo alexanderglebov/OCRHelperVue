@@ -44,8 +44,8 @@ Vue.component('files-attached-modal',{
     }
 },
   template: '<b-modal size="lg" ref="filesAttachedModalRef" :title="stageName" id="logModal">' +
-  '<div v-for="file in options">' +
-  '<label><input type="checkbox" :value="file" v-model="files">{{file}}</label>' +
+  '<div class="form-check border-bottom" v-for="file in options">' +
+  '<input class="form-check-input" type="checkbox" :value="file" v-model="files"><label class="form-check-label">{{file}}</label>' +
   '</div>' +
   // '<div class="d-block">' +
   // '<pre><b-form-checkbox-group v-model="files" class="ml-1" stacked name="flavour2" :options="options"></b-form-checkbox-group></pre>' +

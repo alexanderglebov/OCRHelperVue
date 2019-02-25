@@ -1,26 +1,19 @@
 {
   "oppos" : [
     {
-      "id" : "006f400000HbXMMAA3",
-      "oppoName" : "Kathleen A Long - 11/30/2018 - 1",
+      "id" : "006f400000JwunbAAB",
+      "oppoName" : "Pupuseria Miguelena",
+      "oppoStatus" : "Inactive",
       "processes" : [
         {
-          "processName" : "Credit Report",
+          "processName" : "Opportunity Recognition",
           "stages" : [
             {
-              "stageNameStr" : "CBCPulled",
+              "stageNameStr" : "ApplicationAttached",
+              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
               "stageStatus" : {
                 "statusStr" : "CompletedStStatus",
-                "log" : "",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "CreditDecline",
-              "stageStatus" : {
-                "statusStr" : "StoppedStStatus",
-                "log" : "all ok",
+                "log" : "006f400000JOkJJAA1",
                 "errors" : [
                 ]
               }
@@ -28,48 +21,21 @@
           ]
         },
         {
-          "processName" : "Document Processing",
-          "stages" : [
-            {
-              "stageNameStr" : "DocumentsDownloaded",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Inbox\\SunTrust\\CCR__Kathleen_Long.html\nInbox\\SunTrust\\1af0-Stitch Oct(006f400000HbXMMAA3).pdf\nInbox\\SunTrust\\e9ab-Stitch Sep(006f400000HbXMMAA3).pdf\nInbox\\SunTrust\\86ae-Stitch Aug(006f400000HbXMMAA3).pdf\nInbox\\SunTrust\\63f9-Stitch App(006f400000HbXMMAA3).pdf",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "FilesAttached",
-              "stageStatus" : {
-                "statusStr" : "ErrorStStatus",
-                "log" : "Can't attach files automatically",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id" : "006f400000HbXOhAAN",
-      "oppoName" : "Land Work Provisions, LLC - 11/30/2018 - 1",
-      "processes" : [
-        {
           "processName" : "Credit Report",
           "stages" : [
             {
               "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Feb 25 11:42:54 EET 2019)",
               "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "",
+                "statusStr" : "ErrorStStatus",
+                "log" : "Everything is good",
                 "errors" : [
                 ]
               }
             },
             {
               "stageNameStr" : "CreditDecline",
+              "stageDate" : "Some(Mon Feb 25 11:42:55 EET 2019)",
               "stageStatus" : {
                 "statusStr" : "NotStartedStStatus",
                 "log" : "all ok",
@@ -84,56 +50,58 @@
           "stages" : [
             {
               "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Feb 25 11:42:56 EET 2019)",
               "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Inbox\\Alpine Bank\\app(006f400000HbXOhAAN).pdf\nInbox\\Alpine Bank\\08-18(006f400000HbXOhAAN).pdf\nInbox\\Alpine Bank\\09-18.PDF\nInbox\\Alpine Bank\\CCR__Paul_Cifaldi.html\nInbox\\Alpine Bank\\10-18.PDF",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "FilesAttached",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "ok",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "IntegrityValidated",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Can't attach files automatically",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "AccountChosen",
-              "stageStatus" : {
-                "statusStr" : "InProcessStStatus",
-                "log" : "Can't attach files automatically",
+                "statusStr" : "ErrorStStatus",
+                "log" : "No layout attached",
                 "errors" : [
                 ]
               }
             }
           ]
         }
-      ]
+      ],
+      "date" : "Mon Feb 25 11:42:42 EET 2019"
     },
     {
-      "id" : "006f400000HbXYhAAN",
-      "oppoName" : "Amazing Natural Health Center LLC - 11/30/2018 - 1",
+      "id" : "006f400000JwunMAAR",
+      "oppoName" : "TLC Room and Board LLC",
+      "oppoStatus" : "Inactive",
       "processes" : [
+        {
+          "processName" : "Opportunity Recognition",
+          "stages" : [
+            {
+              "stageNameStr" : "ApplicationAttached",
+              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "006f400000JOkJJAA1",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
         {
           "processName" : "Credit Report",
           "stages" : [
             {
               "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Feb 25 11:50:47 EET 2019)",
               "stageStatus" : {
-                "statusStr" : "ErrorStStatus",
-                "log" : "Score can't be negative. Possible problems with report: 32&amp; 11-29-18 0000000 FILE LOCKED AT CONSUMERS REQ",
+                "statusStr" : "CompletedStStatus",
+                "log" : "Everything is good",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "CreditDecline",
+              "stageDate" : "Some(Mon Feb 25 11:50:47 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
                 "errors" : [
                 ]
               }
@@ -145,37 +113,356 @@
           "stages" : [
             {
               "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Feb 25 11:50:52 EET 2019)",
               "stageStatus" : {
                 "statusStr" : "CompletedStStatus",
-                "log" : "Inbox\\Bank Ozk\\BS 5452- 08.18(006f400000HbXYhAAN).pdf\nInbox\\Bank Ozk\\CCR__Francis_Akins.html\nInbox\\Bank Ozk\\BS 5452- 10.18(006f400000HbXYhAAN).pdf\nInbox\\Bank Ozk\\App(006f400000HbXYhAAN).pdf\nInbox\\Bank Ozk\\BS 5452- 09.18(006f400000HbXYhAAN).pdf",
+                "log" : "Wells Fargo Bank",
                 "errors" : [
                 ]
               }
             },
             {
               "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Feb 25 11:57:44 EET 2019)",
               "stageStatus" : {
                 "statusStr" : "CompletedStStatus",
-                "log" : "ok",
+                "log" : "C:\\Users\\user\\Desktop\\CSV\\WellsFargo\\Dec(006f400000JwunMAAR)\nC:\\Users\\user\\Desktop\\CSV\\WellsFargo\\jan(006f400000JwunMAAR)\nC:\\Users\\user\\Desktop\\CSV\\WellsFargo\\nov(006f400000JwunMAAR)",
                 "errors" : [
                 ]
               }
             },
             {
               "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Feb 25 11:57:45 EET 2019)",
               "stageStatus" : {
-                "statusStr" : "ErrorStStatus",
-                "log" : "Can't attach files automatically",
+                "statusStr" : "CompletedStStatus",
+                "log" : "Success(The operation completed successfully) Bank Name  | Correct Ones | All Ones | %   \n ---------- | ------------ | -------- | --- \n WellsFargo | 6            | 6        | 100 \n N/A \n --- ",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AccountChosen",
+              "stageDate" : "Some(Mon Feb 25 11:57:49 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "7363280673 was obtained via Salesforce",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "SubmissionValidated",
+              "stageDate" : "Some(Mon Feb 25 11:57:49 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Documents attached",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalDecliner",
+              "stageDate" : "Some(Mon Feb 25 11:57:51 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AdvancesValidated",
+              "stageDate" : "Some(Mon Feb 25 11:57:54 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "All records were good",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "TrueRevenue",
+              "stageDate" : "Some(Mon Feb 25 12:08:06 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "ExportedToSF",
+              "stageDate" : "Some(Mon Feb 25 12:08:26 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "export succefull",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "DocumentDecline",
+              "stageDate" : "Some(Mon Feb 25 12:08:29 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
                 "errors" : [
                 ]
               }
             }
           ]
         }
-      ]
+      ],
+      "date" : "Mon Feb 25 11:50:35 EET 2019"
+    },
+    {
+      "id" : "006f400000Jwuo2AAB",
+      "oppoName" : "New Beijing II Inc",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Opportunity Recognition",
+          "stages" : [
+            {
+              "stageNameStr" : "ApplicationAttached",
+              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "006f400000JOkJJAA1",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Feb 25 11:58:59 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Everything is good",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "CreditDecline",
+              "stageDate" : "Some(Mon Feb 25 11:59:03 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "StoppedStStatus",
+                "log" : "Auto declined, because of Open Trades",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Feb 25 11:58:49 EET 2019"
+    },
+    {
+      "id" : "006f400000Jww5WAAR",
+      "oppoName" : "Houston Glazing",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Opportunity Recognition",
+          "stages" : [
+            {
+              "stageNameStr" : "ApplicationAttached",
+              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "006f400000JOkJJAA1",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Feb 25 17:12:47 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Everything is good",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "CreditDecline",
+              "stageDate" : "Some(Mon Feb 25 17:12:50 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "StoppedStStatus",
+                "log" : "Auto declined, because of Open Trades",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Feb 25 17:12:37 EET 2019"
+    },
+    {
+      "id" : "006f400000Jww4xAAB",
+      "oppoName" : "Anchor Beverages Inc.",
+      "oppoStatus" : "Active",
+      "processes" : [
+        {
+          "processName" : "Opportunity Recognition",
+          "stages" : [
+            {
+              "stageNameStr" : "ApplicationAttached",
+              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "006f400000JOkJJAA1",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Feb 25 17:08:12 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Everything is good",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "CreditDecline",
+              "stageDate" : "Some(Mon Feb 25 17:08:13 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Feb 25 17:08:22 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "BB&T",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Feb 25 17:13:01 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "InProcessStStatus",
+                "log" : "",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Feb 25 17:08:00 EET 2019"
+    },
+    {
+      "id" : "006f400000Jww3fAAB",
+      "oppoName" : "R.S. Communications",
+      "oppoStatus" : "Active",
+      "processes" : [
+        {
+          "processName" : "Opportunity Recognition",
+          "stages" : [
+            {
+              "stageNameStr" : "ApplicationAttached",
+              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "006f400000JOkJJAA1",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Feb 25 17:09:43 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Everything is good",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "CreditDecline",
+              "stageDate" : "Some(Mon Feb 25 17:09:43 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Feb 25 17:09:49 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Chase Bank",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Feb 25 17:13:01 EET 2019)",
+              "stageStatus" : {
+                "statusStr" : "InProcessStStatus",
+                "log" : "",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Feb 25 17:09:32 EET 2019"
     }
   ],
   "processes" : {
+    "Opportunity Recognition" : [
+      "ApplicationAttached"
+    ],
     "Credit Report" : [
       "CBCPulled",
       "CreditDecline"
@@ -186,10 +473,12 @@
       "IntegrityValidated",
       "AccountChosen",
       "SubmissionValidated",
+      "WithdrawalDecliner",
       "AdvancesValidated",
       "TrueRevenue",
-      "ExportedToSF"
+      "ExportedToSF",
+      "DocumentDecline"
     ]
   },
-  "appVersion" : "comrade-3.4.1"
+  "appVersion" : "super-4.0.5"
 }

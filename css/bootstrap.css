@@ -9077,8 +9077,9 @@ a.text-dark:hover, a.text-dark:focus {
   overflow-x: auto;
 }
 
-th:nth-child(3), th:nth-child(4)  {
+th:nth-child(3), th:nth-child(4), th:nth-child(5), th:nth-child(6), th:nth-child(7)  {
   text-align: center;
 }
+
 
 /*# sourceMappingURL=bootstrap.css.map */

@@ -32,29 +32,29 @@
             </b-navbar-nav>
         </b-collapse>
     </b-navbar>
-    <b-table dark bordered :items="items" :fields="fields">
-        <template slot="Document Processing" slot-scope="row" class="text-center">
+    <b-table dark bordered :items="items" :fields="fields" :processes="processes">
+        <template v-for="process in processes" :slot="process" slot-scope="row" class="text-center">
             <!-- we use @click.stop here to prevent emitting of a 'row-clicked' event  -->
             <div class="text-nowrap text-center">
-            <b-button size="sm" @click.stop="change(row.item, 'Document Processing', row)"  v-bind:class="row.item.dpButton.color" class="mr-2">
-                {{ row.item.dpButton.stageName }}
+            <b-button size="sm" @click.stop="change(row.item, process, row)"  v-bind:class="row.item[process + 'Button'].color" class="mr-2">
+                {{ row.item[process + 'Button'].stageName }}
             </b-button>
             </div>
 
             <!-- In some circumstances you may need to use @click.native.stop instead -->
             <!-- As `row.showDetails` is one-way, we call the toggleDetails function on @change -->
         </template>
-        <template slot="Credit Report" slot-scope="row" class="text-center">
-            <!-- we use @click.stop here to prevent emitting of a 'row-clicked' event  -->
-            <div class="text-nowrap text-center">
-                <b-button size="sm" @click="change(row.item, 'Credit Report', row)" v-bind:class="row.item.crButton.color" class="mr-2">
-                    {{ row.item.crButton.stageName }}
-                </b-button>
-            </div>
+        <!--<template slot="Credit Report" slot-scope="row" class="text-center">-->
+            <!--&lt;!&ndash; we use @click.stop here to prevent emitting of a 'row-clicked' event  &ndash;&gt;-->
+            <!--<div class="text-nowrap text-center">-->
+                <!--<b-button size="sm" @click="change(row.item, 'Credit Report', row)" v-bind:class="row.item.crButton.color" class="mr-2">-->
+                    <!--{{ row.item.crButton.stageName }}-->
+                <!--</b-button>-->
+            <!--</div>-->
 
-            <!-- In some circumstances you may need to use @click.native.stop instead -->
-            <!-- As `row.showDetails` is one-way, we call the toggleDetails function on @change -->
-        </template>
+            <!--&lt;!&ndash; In some circumstances you may need to use @click.native.stop instead &ndash;&gt;-->
+            <!--&lt;!&ndash; As `row.showDetails` is one-way, we call the toggleDetails function on @change &ndash;&gt;-->
+        <!--</template>-->
         <template slot="row-details" slot-scope="row">
             <b-card class="bg-dark">
                 <b-row class="mb-2">
