@@ -3,7 +3,7 @@
 
 //Vue.component('blog-post', {
 Vue.component('log-modal',{
-  props: ['item-id', 'stage-name'],
+  props: ['item-log', 'stage-name'],
   methods: {
     hideModal() {
          this.$refs.logModalRef.hide()
@@ -22,5 +22,5 @@ Vue.component('log-modal',{
   //   this.$refs.logModalRef.hide()
   // }
 // },
-  template: '<b-modal size="lg" ref="logModalRef" :title="stageName" id="logModal"><div class="d-block"><pre>{{itemId}}</pre></div><div slot="modal-footer" class="w-100"><b-btn @click="hideModal" class="float-right">Reset Stage</b-btn></b-btn></div></b-modal>'
+  template: '<b-modal size="lg" ref="logModalRef" :title="stageName" id="logModal"><div class="d-block"><pre>{{itemLog}}</pre></div><div slot="modal-footer" class="w-100"><b-btn @click="hideModal" class="float-right">Reset Stage</b-btn></b-btn></div></b-modal>'
 })

@@ -4,7 +4,8 @@ const data = window.data = {
   fields: [],//showHeaders(myJson)
   processes: [],
   showModal: false,
-  currentItemId: null,
+  currentItemLog: null,
+  currentItemId: '',
   stageName: ''
 
 }
@@ -24,16 +25,16 @@ new Vue({
     // hidePopUp: function () {
     //   this.$refs.logModal.hideModal()
     // },
-    showPopUp: function (item, stageName) {
-      this.currentItemId = item
+    showPopUp: function (log, stageName, id) {
+      this.currentItemId = id
       this.stageName = stageName
-   //  console.log('item:', item, 'stageNme:', stageName)
+      this.currentItemLog = log
       switch (stageName) {
-        case 'DocumentsDownloaded': this.$refs.logModal.showModal()
+        case 'DocumentsDownloaded': this.$refs.documentsDownloadModal.showModal()
           break
         case 'FilesAttached': this.$refs.filesAttachedModal.showModal()
           break
-        case 'AccountChosen': console.log('AC')
+        case 'AccountChosen': this.$refs.accountChosenModal.showModal()
           break
         default: this.$refs.logModal.showModal()
       }
@@ -126,7 +127,7 @@ function getItems(oppos) {
     item = addButtonsToItem(oppo, item)
    // item.dpButton = addLastDocProcessStageButton(oppo, 'Document Processing')
    // item.crButton = addLastDocProcessStageButton(oppo, 'Credit Report')
-    console.log(item)
+    //console.log(item)
     items.push(item)
   })
   return items

@@ -6,7 +6,7 @@
       "oppoStatus" : "Inactive",
       "processes" : [
         {
-          "processName" : "Opportunity Recognition",
+          "processName" : "Application Recognition",
           "stages" : [
             {
               "stageNameStr" : "ApplicationAttached",
@@ -69,7 +69,7 @@
       "oppoStatus" : "Inactive",
       "processes" : [
         {
-          "processName" : "Opportunity Recognition",
+          "processName" : "Application Recognition",
           "stages" : [
             {
               "stageNameStr" : "ApplicationAttached",
@@ -222,7 +222,7 @@
       "oppoStatus" : "Inactive",
       "processes" : [
         {
-          "processName" : "Opportunity Recognition",
+          "processName" : "Application Recognition",
           "stages" : [
             {
               "stageNameStr" : "ApplicationAttached",
@@ -270,7 +270,7 @@
       "oppoStatus" : "Inactive",
       "processes" : [
         {
-          "processName" : "Opportunity Recognition",
+          "processName" : "Application Recognition",
           "stages" : [
             {
               "stageNameStr" : "ApplicationAttached",
@@ -318,7 +318,7 @@
       "oppoStatus" : "Active",
       "processes" : [
         {
-          "processName" : "Opportunity Recognition",
+          "processName" : "Application Recognition",
           "stages" : [
             {
               "stageNameStr" : "ApplicationAttached",
@@ -391,7 +391,7 @@
       "oppoStatus" : "Active",
       "processes" : [
         {
-          "processName" : "Opportunity Recognition",
+          "processName" : "Application Recognition",
           "stages" : [
             {
               "stageNameStr" : "ApplicationAttached",
@@ -460,7 +460,7 @@
     }
   ],
   "processes" : {
-    "Opportunity Recognition" : [
+    "Application Recognition" : [
       "ApplicationAttached"
     ],
     "Credit Report" : [

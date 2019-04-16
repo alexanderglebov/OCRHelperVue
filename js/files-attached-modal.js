@@ -1,7 +1,5 @@
 //RESET STAGE NEEDED
 
-
-//Vue.component('blog-post', {
 Vue.component('files-attached-modal',{
   props: ['item-id', 'stage-name'],
   data () {
@@ -43,7 +41,7 @@ Vue.component('files-attached-modal',{
       console.log(this.files)
     }
 },
-  template: '<b-modal size="lg" ref="filesAttachedModalRef" :title="stageName" id="logModal">' +
+  template: '<b-modal size="lg" ref="filesAttachedModalRef" :title="stageName" id="filesAttachedModal">' +
   '<div class="form-check border-bottom" v-for="file in options">' +
   '<input class="form-check-input" type="checkbox" :value="file" v-model="files"><label class="form-check-label">{{file}}</label>' +
   '</div>' +

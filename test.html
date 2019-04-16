@@ -5,10 +5,15 @@
     <title>OCR Helper</title>
     <link type="text/css" rel="stylesheet" href="css/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="css/bootstrap-vue.css"/>
+    <link type="text/css" rel="stylesheet" href="css/jquery-ui.css"/>
+
     <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/jquery-ui.js"></script>
     <script src="js/vue.js"></script>
     <script src="js/log-modal.js"></script>
     <script src="js/files-attached-modal.js"></script>
+    <script src="js/account-chosen-stage.js"></script>
+    <script src="js/documents-download.js"></script>
     <script src="js/polyfill.min.js"></script>
     <script src="js/bootstrap-vue.js"></script>
 </head>
@@ -41,36 +46,28 @@
             </b-button>
             </div>
 
-            <!-- In some circumstances you may need to use @click.native.stop instead -->
-            <!-- As `row.showDetails` is one-way, we call the toggleDetails function on @change -->
         </template>
-        <!--<template slot="Credit Report" slot-scope="row" class="text-center">-->
-            <!--&lt;!&ndash; we use @click.stop here to prevent emitting of a 'row-clicked' event  &ndash;&gt;-->
-            <!--<div class="text-nowrap text-center">-->
-                <!--<b-button size="sm" @click="change(row.item, 'Credit Report', row)" v-bind:class="row.item.crButton.color" class="mr-2">-->
-                    <!--{{ row.item.crButton.stageName }}-->
-                <!--</b-button>-->
-            <!--</div>-->
-
-            <!--&lt;!&ndash; In some circumstances you may need to use @click.native.stop instead &ndash;&gt;-->
-            <!--&lt;!&ndash; As `row.showDetails` is one-way, we call the toggleDetails function on @change &ndash;&gt;-->
         <!--</template>-->
         <template slot="row-details" slot-scope="row">
             <b-card class="bg-dark">
                 <b-row class="mb-2">
                     <b-col class="text-center text-nowrap"><span id="detailsSpan" v-for="item in row.item[row.item._detailsItemName]">
-                        <button :key="item.name" v-on:click="showPopUp(item.log, item.name)"  :class="{ 'btn' : true, 'btn-sm' : true, 'btn-success2' : item.status === 'CompletedStStatus', 'btn-danger1' : item.status === 'ErrorStStatus', 'btn-warning' : item.status === 'InProcessStStatus', 'btn-secondary' : item.status === 'NotStartedStStatus', 'btn-info' : item.status === 'StoppedStStatus'}"> {{ item.name }} </button> &nbsp;
+                        <button :key="item.name" v-on:click="showPopUp(item.log, item.name, row.item.id)"  :class="{ 'btn' : true, 'btn-sm' : true, 'btn-success2' : item.status === 'CompletedStStatus', 'btn-danger1' : item.status === 'ErrorStStatus', 'btn-warning' : item.status === 'InProcessStStatus', 'btn-secondary' : item.status === 'NotStartedStStatus', 'btn-info' : item.status === 'StoppedStStatus'}"> {{ item.name }} </button> &nbsp;
                     </span></b-col>
                 </b-row>
             </b-card>
         </template>
 
     </b-table>
-<log-modal ref="logModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName">
+<log-modal ref="logModal" v-bind:item-log="currentItemLog" v-bind:stage-name="stageName">
 
 </log-modal>
     <files-attached-modal ref="filesAttachedModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName">
     </files-attached-modal>
+    <documents-download-modal ref="documentsDownloadModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName">
+    </documents-download-modal>
+    <account-chosen-modal ref="accountChosenModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName" v-bind:item-log="currentItemLog">
+    </account-chosen-modal>
 </template>
 </div>
 
