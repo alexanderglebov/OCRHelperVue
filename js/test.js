@@ -36,6 +36,8 @@ new Vue({
           break
         case 'AccountChosen': this.$refs.accountChosenModal.showModal()
           break
+        case 'AdvancesValidated': this.$refs.advancesModal.showModal()
+          break
         default: this.$refs.logModal.showModal()
       }
     }
@@ -119,7 +121,7 @@ function getItems(oppos) {
     processesNames.push(key)
   }
   var items = []
-  oppos.forEach(function (oppo) {
+  oppos.reverse().forEach(function (oppo) {
     var item = {id: oppo.id, oppoName: oppo.oppoName, crButton: {stageName: '', color: ''}, dpButton: {stageName: '', color: ''}}
     processesNames.forEach(function (processName) {
       item[processName + 'Button'] = addLastDocProcessStageButton(oppo, processName)

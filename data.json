@@ -1,43 +1,18 @@
 {
   "oppos" : [
     {
-      "id" : "006f400000JwunbAAB",
-      "oppoName" : "Pupuseria Miguelena",
+      "id" : "006f400000MWXNxAAP",
+      "oppoName" : "88 Special Sweet Inc",
       "oppoStatus" : "Inactive",
       "processes" : [
-        {
-          "processName" : "Application Recognition",
-          "stages" : [
-            {
-              "stageNameStr" : "ApplicationAttached",
-              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "006f400000JOkJJAA1",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
         {
           "processName" : "Credit Report",
           "stages" : [
             {
               "stageNameStr" : "CBCPulled",
-              "stageDate" : "Some(Mon Feb 25 11:42:54 EET 2019)",
+              "stageDate" : "Some(Mon Apr 22 11:23:52 EEST 2019)",
               "stageStatus" : {
-                "statusStr" : "ErrorStStatus",
-                "log" : "Everything is good",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "CreditDecline",
-              "stageDate" : "Some(Mon Feb 25 11:42:55 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "NotStartedStStatus",
+                "statusStr" : "CompletedStStatus",
                 "log" : "all ok",
                 "errors" : [
                 ]
@@ -50,7 +25,851 @@
           "stages" : [
             {
               "stageNameStr" : "DocumentsDownloaded",
-              "stageDate" : "Some(Mon Feb 25 11:42:56 EET 2019)",
+              "stageDate" : "Some(Mon Apr 22 11:23:58 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Chase Bank",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Apr 22 11:53:04 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "C:\\Users\\user\\Desktop\\CSV\\Chase\\01-19(006f400000MWXNxAAP)\nC:\\Users\\user\\Desktop\\CSV\\Chase\\02-19(006f400000MWXNxAAP)\nC:\\Users\\user\\Desktop\\CSV\\Chase\\03-19(006f400000MWXNxAAP)",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Apr 22 11:53:05 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Success(The operation completed successfully) Bank Name | Correct Ones | All Ones | %   \n --------- | ------------ | -------- | --- \n Chase     | 3            | 3        | 100 \n N/A \n --- ",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AccountChosen",
+              "stageDate" : "Some(Mon Apr 22 11:53:09 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "000000919176193 was obtained via Salesforce",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "SubmissionValidated",
+              "stageDate" : "Some(Mon Apr 22 11:53:09 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Documents attached",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AdvancesValidated",
+              "stageDate" : "Some(Mon Apr 22 11:53:13 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "All records were good",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalsCheck",
+              "stageDate" : "Some(Mon Apr 22 11:53:16 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalDecliner",
+              "stageDate" : "Some(Mon Apr 22 11:53:20 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "TrueRevenue",
+              "stageDate" : "Some(Mon Apr 22 11:55:38 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "ExportedToSF",
+              "stageDate" : "Some(Mon Apr 22 11:55:56 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "export succefull",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "DocumentDecline",
+              "stageDate" : "Some(Mon Apr 22 11:56:00 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 11:23:38 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8fcAAD",
+      "oppoName" : "BlueStar HonorCare",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 11:50:45 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 11:49:29 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Bank of America",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Apr 22 11:58:27 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "C:\\Users\\user\\Desktop\\CSV\\BankOfAmerica\\February 2019 (1832)(006f400000MX8fcAAD)\nC:\\Users\\user\\Desktop\\CSV\\BankOfAmerica\\January 2019 (1832)(006f400000MX8fcAAD)\nC:\\Users\\user\\Desktop\\CSV\\BankOfAmerica\\March 2019 (1832)(006f400000MX8fcAAD)",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Apr 22 11:58:28 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Success(The operation completed successfully) Bank Name     | Correct Ones | All Ones | %   \n ------------- | ------------ | -------- | --- \n BankOfAmerica | 3            | 3        | 100 \n N/A \n --- ",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AccountChosen",
+              "stageDate" : "Some(Mon Apr 22 11:58:32 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "446034701832 was obtained via Salesforce",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "SubmissionValidated",
+              "stageDate" : "Some(Mon Apr 22 11:58:32 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Documents attached",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AdvancesValidated",
+              "stageDate" : "Some(Mon Apr 22 11:59:15 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalsCheck",
+              "stageDate" : "Some(Mon Apr 22 11:59:18 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalDecliner",
+              "stageDate" : "Some(Mon Apr 22 11:59:22 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "TrueRevenue",
+              "stageDate" : "Some(Mon Apr 22 12:03:20 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "ExportedToSF",
+              "stageDate" : "Some(Mon Apr 22 12:03:37 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "export succefull",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "DocumentDecline",
+              "stageDate" : "Some(Mon Apr 22 12:03:39 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 11:49:18 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8fmAAD",
+      "oppoName" : "The Christmas Co,",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 12:00:41 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 11:54:12 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Umpqua Bank",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Apr 22 13:20:32 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Apr 22 13:20:33 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Success(The operation completed successfully) Bank Name  | Correct Ones | All Ones | %   \n ---------- | ------------ | -------- | --- \n UmpquaBank | 1            | 1        | 100 \n N/A \n --- ",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AccountChosen",
+              "stageDate" : "Some(Mon Apr 22 13:20:39 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "submission fixed mannually",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "SubmissionValidated",
+              "stageDate" : "Some(Mon Apr 22 13:20:40 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Documents attached",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AdvancesValidated",
+              "stageDate" : "Some(Mon Apr 22 13:22:10 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalsCheck",
+              "stageDate" : "Some(Mon Apr 22 13:22:12 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalDecliner",
+              "stageDate" : "Some(Mon Apr 22 13:22:14 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "TrueRevenue",
+              "stageDate" : "Some(Mon Apr 22 13:22:27 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "ExportedToSF",
+              "stageDate" : "Some(Mon Apr 22 13:22:41 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "export succefull",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "DocumentDecline",
+              "stageDate" : "Some(Mon Apr 22 13:22:43 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 11:53:51 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8gQAAT",
+      "oppoName" : "Chester McGowan's Building & Remodel",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 12:16:03 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 12:14:42 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Wells Fargo Bank",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Apr 22 12:27:34 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "C:\\Users\\user\\Desktop\\CSV\\WellsFargo\\01-19(006f400000MX8gQAAT)\nC:\\Users\\user\\Desktop\\CSV\\WellsFargo\\02-19(006f400000MX8gQAAT)\nC:\\Users\\user\\Desktop\\CSV\\WellsFargo\\03-19(006f400000MX8gQAAT)",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Apr 22 12:27:35 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "ErrorStStatus",
+                "log" : " Bank Name  | Correct Ones | All Ones | % \n ---------- | ------------ | -------- | - \n WellsFargo | 0            | 3        | 0 \n N/A        | Wrong transaction sum | Period to is empty \n ---------- | --------------------- | ------------------ \n WellsFargo | 3                     | 1                  \n1. Validating document C:\\Users\\user\\Desktop\\CSV\\WellsFargo\\01-19(006f400000MX8gQAAT) 9909810898\n\nError estimate: 12.352941176470589\n\n Error                 | Raw Value                      \n --------------------- | ------------------------------ \n Wrong transaction sum | incorrect sum                  \n Period to is empty    | January 1, 2019-January31,2019 \n\nTransaction sums by table:\n N/A                | Sum       \n ------------------ | --------- \n TransactionHistory | -13687.62 \n---------------\nTotal: 92192.47 + 77981.00 -91668.62 - 80560.76 = -2055.91\nTransactions check: incorrect\n2. Validating document C:\\Users\\user\\Desktop\\CSV\\WellsFargo\\02-19(006f400000MX8gQAAT) 9909810898\n\nError estimate: 10.78125\n\n Error                 | Raw Value     \n --------------------- | ------------- \n Wrong transaction sum | incorrect sum \n\nTransaction sums by table:\n N/A                | Sum     \n ------------------ | ------- \n TransactionHistory | 6394.25 \n---------------\nTotal: 81561.47 + 88375.34 -81981.09 - 97468.76 = -9513.04\nTransactions check: incorrect\n3. Validating document C:\\Users\\user\\Desktop\\CSV\\WellsFargo\\03-19(006f400000MX8gQAAT) 9909810898\n\nError estimate: 13.703703703703704\n\n Error                 | Raw Value     \n --------------------- | ------------- \n Wrong transaction sum | incorrect sum \n\nTransaction sums by table:\n N/A                | Sum       \n ------------------ | --------- \n TransactionHistory | -51925.87 \n---------------\nTotal: 97640.89 + 15600.00 -67525.87 - 89096.51 = -43381.49\nTransactions check: incorrect",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 12:14:23 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8guAAD",
+      "oppoName" : "Songfreedom",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 12:38:19 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 12:38:26 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Bank of America",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Apr 22 13:11:08 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Apr 22 13:11:09 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Success(The operation completed successfully) Bank Name     | Correct Ones | All Ones | %   \n ------------- | ------------ | -------- | --- \n BankOfAmerica | 3            | 3        | 100 \n N/A \n --- ",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AccountChosen",
+              "stageDate" : "Some(Mon Apr 22 13:11:14 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "291025795154 was obtained via Salesforce",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "SubmissionValidated",
+              "stageDate" : "Some(Mon Apr 22 13:11:14 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Documents attached",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AdvancesValidated",
+              "stageDate" : "Some(Mon Apr 22 13:17:00 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalsCheck",
+              "stageDate" : "Some(Mon Apr 22 13:17:04 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalDecliner",
+              "stageDate" : "Some(Mon Apr 22 13:17:09 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "TrueRevenue",
+              "stageDate" : "Some(Mon Apr 22 13:18:54 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "ExportedToSF",
+              "stageDate" : "Some(Mon Apr 22 13:19:12 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "export succefull",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "DocumentDecline",
+              "stageDate" : "Some(Mon Apr 22 13:19:18 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "StoppedStStatus",
+                "log" : "Auto declined, because of ADB Decliner",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 12:38:01 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8h4AAD",
+      "oppoName" : "Pearl Home",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 12:59:19 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 12:59:24 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Chase Bank",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Apr 22 13:07:58 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "C:\\Users\\user\\Desktop\\CSV\\Chase\\01-19(006f400000MX8h4AAD)\nC:\\Users\\user\\Desktop\\CSV\\Chase\\02-19(006f400000MX8h4AAD)\nC:\\Users\\user\\Desktop\\CSV\\Chase\\03-19(006f400000MX8h4AAD)",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Apr 22 13:07:59 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Success(The operation completed successfully) Bank Name | Correct Ones | All Ones | %   \n --------- | ------------ | -------- | --- \n Chase     | 3            | 3        | 100 \n N/A \n --- ",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AccountChosen",
+              "stageDate" : "Some(Mon Apr 22 13:08:02 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "000000201723159 was obtained via Salesforce",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "SubmissionValidated",
+              "stageDate" : "Some(Mon Apr 22 13:08:03 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Documents attached",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "AdvancesValidated",
+              "stageDate" : "Some(Mon Apr 22 13:08:36 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalsCheck",
+              "stageDate" : "Some(Mon Apr 22 13:08:38 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "Ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "WithdrawalDecliner",
+              "stageDate" : "Some(Mon Apr 22 13:08:41 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "TrueRevenue",
+              "stageDate" : "Some(Mon Apr 22 13:09:51 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "ExportedToSF",
+              "stageDate" : "Some(Mon Apr 22 13:10:10 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "export succefull",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "DocumentDecline",
+              "stageDate" : "Some(Mon Apr 22 13:10:13 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 12:59:06 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8hiAAD",
+      "oppoName" : "Columbus Area Integrated",
+      "oppoStatus" : "Inactive",
+      "processes" : [
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 13:19:29 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "ErrorStStatus",
+                "log" : "No layout attached",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 13:22:11 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "ErrorStStatus",
+                "log" : "bureau can not determine what applicant to pull credit on with the information provided  0007 *****  NO RECORD FOUND  *****",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 13:19:19 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8g1AAD",
+      "oppoName" : "The SMP Realty Group",
+      "oppoStatus" : "Active",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 12:06:28 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 12:28:06 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "FilesAttached",
+              "stageDate" : "Some(Mon Apr 22 12:52:49 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "fixed from web",
+                "errors" : [
+                ]
+              }
+            },
+            {
+              "stageNameStr" : "IntegrityValidated",
+              "stageDate" : "Some(Mon Apr 22 13:20:03 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "ErrorStStatus",
+                "log" : " Bank Name           | Correct Ones | All Ones | % \n ------------------- | ------------ | -------- | - \n GuilfordSavingsBank | 0            | 3        | 0 \n N/A                 | Wrong transaction sum | Amounts missed: \n ------------------- | --------------------- | --------------- \n GuilfordSavingsBank | 3                     | 3               \n1. Validating document C:\\Users\\user\\Desktop\\CSV\\GuilfordSavingsBank\\Bank 2401 01-19 XXXXXX2401\n\nError estimate: 92.85714285714286\n\n Error                 | Raw Value     \n --------------------- | ------------- \n Wrong transaction sum | incorrect sum \n\nAmounts missed:\n Table           | Row Num | Raw Val      | Val \n --------------- | ------- | ------------ | --- \n AccountActivity | 1       | -$ -13.48    |     \n AccountActivity | 2       | -$ -49.00    |     \n AccountActivity | 3       | -$ -200.00   |     \n AccountActivity | 4       | -$ -62.06    |     \n AccountActivity | 5       | -$ -15.92    |     \n AccountActivity | 6       | -$ -21.78    |     \n AccountActivity | 7       | -$ -175.00   |     \n AccountActivity | 8       | -$ -87.57    |     \n AccountActivity | 9       | -$ -14.93    |     \n AccountActivity | 10      | -$ -250.00   |     \n AccountActivity | 11      | -$ -100.00   |     \n AccountActivity | 12      | -$ -450.00   |     \n AccountActivity | 13      | -$ -11.49    |     \n AccountActivity | 14      | -$ -32.61    |     \n AccountActivity | 15      | -$ -400.00   |     \n AccountActivity | 16      | -$ -125.00   |     \n AccountActivity | 17      | -$ -40.96    |     \n AccountActivity | 18      | -$ -26.39    |     \n AccountActivity | 19      | -$ -297.00   |     \n AccountActivity | 20      | -$ -35.00    |     \n AccountActivity | 21      | -$ -500.00   |     \n AccountActivity | 22      | -$ -35.00    |     \n AccountActivity | 23      | -$ -270.56   |     \n AccountActivity | 24      | -$ -35.00    |     \n AccountActivity | 25      | -$ -155.00   |     \n AccountActivity | 26      | -$ -35.00    |     \n AccountActivity | 28      | -$ -40.00    |     \n AccountActivity | 29      | -$ -13.95    |     \n AccountActivity | 30      | -$ -35.00    |     \n AccountActivity | 31      | -$ -9.79     |     \n AccountActivity | 32      | -$ -35.00    |     \n AccountActivity | 33      | -$ -151.50   |     \n AccountActivity | 34      | -$ -35.00    |     \n AccountActivity | 35      | -$ -120.49   |     \n AccountActivity | 36      | -$ -35.00    |     \n AccountActivity | 40      | -$ -14.14    |     \n AccountActivity | 41      | -$ -150.00   |     \n AccountActivity | 42      | -$ -35.00    |     \n AccountActivity | 44      | -$ -100.00   |     \n AccountActivity | 45      | -$ -35.00    |     \n AccountActivity | 46      | -$ -19.99    |     \n AccountActivity | 47      | -$ -35.00    |     \n AccountActivity | 48      | -$ -292.85   |     \n AccountActivity | 49      | -$ -110.37   |     \n AccountActivity | 50      | -$ -95.32    |     \n AccountActivity | 51      | -$ -100.00   |     \n AccountActivity | 52      | -$ -29.99    |     \n AccountActivity | 53      | -$ -13.94    |     \n AccountActivity | 54      | -$ -9.76     |     \n AccountActivity | 55      | -$ -3,251.59 |     \n AccountActivity | 56      | -$ -640.93   |     \n AccountActivity | 57      | -$ -555.05   |     \n AccountActivity | 58      | -$ -250.00   |     \n AccountActivity | 59      | -$ -250.00   |     \n AccountActivity | 60      | -$ -29.13    |     \n AccountActivity | 61      | -$ -9.48     |     \n AccountActivity | 62      | -$ -136.42   |     \n AccountActivity | 63      | -$ -6.31     |     \n AccountActivity | 64      | -$ -100.00   |     \n AccountActivity | 65      | -$ -2.00     |     \n AccountActivity | 66      | -$ -166.70   |     \n AccountActivity | 67      | -$ -1.50     |     \n AccountActivity | 68      | -$ -250.00   |     \n AccountActivity | 69      | -$ -300.00   |     \n AccountActivity | 70      | -$ -2.00     |     \n AccountActivity | 71      | -$ -26.00    |     \n AccountActivity | 72      | -$ -130.86   |     \n AccountActivity | 73      | -$ -19.99    |     \n AccountActivity | 74      | -$ -86.95    |     \n AccountActivity | 75      | -$ -3.00     |     \n AccountActivity | 76      | -$ -80.00    |     \n AccountActivity | 77      | -$ -2.00     |     \n AccountActivity | 78      | -$ -2.00     |     \n AccountActivity | 80      | -$ -22.00    |     \n AccountActivity | 81      | -$ -18.00    |     \n AccountActivity | 82      | -$ -13.00    |     \n AccountActivity | 83      | -$ -13.37    |     \n---------------\n\nTransaction sums by table:\n N/A             | Sum      | Amounts missed: \n --------------- | -------- | --------------- \n AccountActivity | 17214.26 | 77              \n---------------\nTotal: 2128.28 + 17214.26 0 - 8018.42 = 11324.12\nTransactions check: incorrect\n2. Validating document C:\\Users\\user\\Desktop\\CSV\\GuilfordSavingsBank\\Bank 2401 02-19 XXXXXX2401\n\nError estimate: 91.86046511627907\n\n Error                 | Raw Value     \n --------------------- | ------------- \n Wrong transaction sum | incorrect sum \n\nAmounts missed:\n Table           | Row Num | Raw Val      | Val \n --------------- | ------- | ------------ | --- \n AccountActivity | 1       | -$ -15.51    |     \n AccountActivity | 2       | -$ -200.00   |     \n AccountActivity | 3       | -$ -12.22    |     \n AccountActivity | 4       | -$ -300.00   |     \n AccountActivity | 5       | -$ -11.15    |     \n AccountActivity | 6       | -$ -49.00    |     \n AccountActivity | 7       | -$ -175.00   |     \n AccountActivity | 8       | -$ -64.12    |     \n AccountActivity | 9       | -$ -34.75    |     \n AccountActivity | 10      | -$ -21.78    |     \n AccountActivity | 11      | -$ -3.99     |     \n AccountActivity | 12      | -$ -17.19    |     \n AccountActivity | 14      | -$ -11.17    |     \n AccountActivity | 15      | -$ -763.00   |     \n AccountActivity | 16      | -$ -200.00   |     \n AccountActivity | 17      | -$ -150.00   |     \n AccountActivity | 18      | -$ -37.69    |     \n AccountActivity | 19      | -$ -1,400.00 |     \n AccountActivity | 22      | -$ -12.99    |     \n AccountActivity | 23      | -$ -533.00   |     \n AccountActivity | 24      | -$ -729.66   |     \n AccountActivity | 25      | -$ -400.00   |     \n AccountActivity | 26      | -$ -2,300.00 |     \n AccountActivity | 29      | -$ -18.72    |     \n AccountActivity | 30      | -$ -32.61    |     \n AccountActivity | 31      | -$ -250.00   |     \n AccountActivity | 32      | -$ -25.00    |     \n AccountActivity | 33      | -$ -3,089.00 |     \n AccountActivity | 34      | -$ -35.00    |     \n AccountActivity | 36      | -$ -25.00    |     \n AccountActivity | 37      | -$ -0.70     |     \n AccountActivity | 38      | -$ -500.00   |     \n AccountActivity | 39      | -$ -35.00    |     \n AccountActivity | 40      | -$ -127.78   |     \n AccountActivity | 41      | -$ -44.39    |     \n AccountActivity | 42      | -$ -19.85    |     \n AccountActivity | 43      | -$ -80.01    |     \n AccountActivity | 44      | -$ -430.00   |     \n AccountActivity | 45      | -$ -24.82    |     \n AccountActivity | 46      | -$ -4.12     |     \n AccountActivity | 47      | -$ -167.22   |     \n AccountActivity | 48      | -$ -15.46    |     \n AccountActivity | 49      | -$ -12.85    |     \n AccountActivity | 50      | -$ -100.00   |     \n AccountActivity | 51      | -$ -2.00     |     \n AccountActivity | 52      | -$ -35.00    |     \n AccountActivity | 53      | -$ -2.00     |     \n AccountActivity | 54      | -$ -20.03    |     \n AccountActivity | 55      | -$ -151.50   |     \n AccountActivity | 56      | -$ -120.49   |     \n AccountActivity | 57      | -$ -39.60    |     \n AccountActivity | 58      | -$ -29.95    |     \n AccountActivity | 59      | -$ -14.14    |     \n AccountActivity | 60      | -$ -17.37    |     \n AccountActivity | 61      | -$ -22.74    |     \n AccountActivity | 62      | -$ -14.95    |     \n AccountActivity | 63      | -$ -125.00   |     \n AccountActivity | 64      | -$ -100.00   |     \n AccountActivity | 65      | -$ -19.99    |     \n AccountActivity | 66      | -$ -1.11     |     \n AccountActivity | 67      | -$ -1.11     |     \n AccountActivity | 68      | -$ -0.84     |     \n AccountActivity | 69      | -$ -32.66    |     \n AccountActivity | 70      | -$ -250.00   |     \n AccountActivity | 71      | -$ -35.00    |     \n AccountActivity | 72      | -$ -5.60     |     \n AccountActivity | 73      | -$ -25.00    |     \n AccountActivity | 74      | -$ -5.60     |     \n AccountActivity | 75      | -$ -250.00   |     \n AccountActivity | 76      | -$ -35.00    |     \n AccountActivity | 77      | -$ -4.00     |     \n AccountActivity | 78      | -$ -35.00    |     \n AccountActivity | 79      | -$ -0.45     |     \n AccountActivity | 80      | -$ -35.00    |     \n AccountActivity | 81      | -$ -25.00    |     \n AccountActivity | 82      | -$ -35.00    |     \n AccountActivity | 84      | -$ -14.75    |     \n AccountActivity | 85      | -$ -561.00   |     \n---------------\n\nTransaction sums by table:\n N/A             | Sum      | Amounts missed: \n --------------- | -------- | --------------- \n AccountActivity | 17160.82 | 78              \n---------------\nTotal: 8018.42 + 17170.05 -9.23 - 10632.61 = 14546.63\nTransactions check: incorrect\n3. Validating document C:\\Users\\user\\Desktop\\CSV\\GuilfordSavingsBank\\Bank 2401 03-19 XXXXXX2401\n\nError estimate: 94.57364341085271\n\n Error                 | Raw Value     \n --------------------- | ------------- \n Wrong transaction sum | incorrect sum \n\nAmounts missed:\n Table           | Row Num | Raw Val      | Val \n --------------- | ------- | ------------ | --- \n AccountActivity | 5       | -$ -8.87     |     \n AccountActivity | 6       | -$ -11.35    |     \n AccountActivity | 7       | -$ -60.00    |     \n AccountActivity | 8       | -$ -2.00     |     \n AccountActivity | 9       | -$ -200.00   |     \n AccountActivity | 10      | -$ -68.61    |     \n AccountActivity | 11      | -$ -2.50     |     \n AccountActivity | 12      | -$ -49.00    |     \n AccountActivity | 13      | -$ -3.99     |     \n AccountActivity | 14      | -$ -4.00     |     \n AccountActivity | 15      | -$ -21.78    |     \n AccountActivity | 16      | -$ -3.50     |     \n AccountActivity | 17      | -$ -14.75    |     \n AccountActivity | 18      | -$ -77.77    |     \n AccountActivity | 19      | -$ -11.35    |     \n AccountActivity | 20      | -$ -44.50    |     \n AccountActivity | 21      | -$ -16.74    |     \n AccountActivity | 22      | -$ -40.65    |     \n AccountActivity | 23      | -$ -175.00   |     \n AccountActivity | 24      | -$ -65.57    |     \n AccountActivity | 25      | -$ -34.25    |     \n AccountActivity | 26      | -$ -12.29    |     \n AccountActivity | 27      | -$ -28.50    |     \n AccountActivity | 28      | -$ -1,000.00 |     \n AccountActivity | 29      | -$ -1,000.00 |     \n AccountActivity | 30      | -$ -653.30   |     \n AccountActivity | 31      | -$ -200.00   |     \n AccountActivity | 32      | -$ -96.22    |     \n AccountActivity | 33      | -$ -29.13    |     \n AccountActivity | 34      | -$ -13.99    |     \n AccountActivity | 35      | -$ -0.38     |     \n AccountActivity | 36      | -$ -1,000.00 |     \n AccountActivity | 37      | -$ -1,500.00 |     \n AccountActivity | 38      | -$ -725.00   |     \n AccountActivity | 40      | -$ -47.91    |     \n AccountActivity | 41      | -$ -4.00     |     \n AccountActivity | 42      | -$ -729.66   |     \n AccountActivity | 43      | -$ -400.00   |     \n AccountActivity | 44      | -$ -200.00   |     \n AccountActivity | 45      | -$ -0.38     |     \n AccountActivity | 46      | -$ -427.50   |     \n AccountActivity | 47      | -$ -213.00   |     \n AccountActivity | 48      | -$ -32.61    |     \n AccountActivity | 49      | -$ -13.10    |     \n AccountActivity | 50      | -$ -5.44     |     \n AccountActivity | 51      | -$ -250.00   |     \n AccountActivity | 52      | -$ -92.00    |     \n AccountActivity | 53      | -$ -63.54    |     \n AccountActivity | 54      | -$ -1.75     |     \n AccountActivity | 55      | -$ -15.62    |     \n AccountActivity | 56      | -$ -500.00   |     \n AccountActivity | 57      | -$ -500.00   |     \n AccountActivity | 59      | -$ -39.84    |     \n AccountActivity | 60      | -$ -11.53    |     \n AccountActivity | 61      | -$ -88.95    |     \n AccountActivity | 63      | -$ -35.97    |     \n AccountActivity | 64      | -$ -2.75     |     \n AccountActivity | 65      | -$ -500.00   |     \n AccountActivity | 66      | -$ -2.00     |     \n AccountActivity | 67      | -$ -367.00   |     \n AccountActivity | 68      | -$ -68.27    |     \n AccountActivity | 69      | -$ -7.99     |     \n AccountActivity | 70      | -$ -51.95    |     \n AccountActivity | 71      | -$ -2,050.00 |     \n AccountActivity | 72      | -$ -151.50   |     \n AccountActivity | 73      | -$ -120.49   |     \n AccountActivity | 74      | -$ -85.03    |     \n AccountActivity | 75      | -$ -5.13     |     \n AccountActivity | 76      | -$ -29.95    |     \n AccountActivity | 77      | -$ -14.14    |     \n AccountActivity | 78      | -$ -500.00   |     \n AccountActivity | 79      | -$ -14.95    |     \n AccountActivity | 80      | -$ -3.99     |     \n AccountActivity | 81      | -$ -250.00   |     \n AccountActivity | 82      | -$ -100.00   |     \n AccountActivity | 83      | -$ -78.00    |     \n AccountActivity | 84      | -$ -19.99    |     \n AccountActivity | 85      | -$ -0.84     |     \n AccountActivity | 86      | -$ -200.00   |     \n AccountActivity | 87      | -$ -2.00     |     \n AccountActivity | 88      | -$ -200.00   |     \n AccountActivity | 89      | -$ -2.00     |     \n AccountActivity | 90      | -$ -1,450.00 |     \n AccountActivity | 91      | -$ -250.00   |     \n AccountActivity | 92      | -$ -257.18   |     \n AccountActivity | 93      | -$ -2.00     |     \n AccountActivity | 94      | -$ -2.00     |     \n AccountActivity | 95      | -$ -359.00   |     \n AccountActivity | 96      | -$ -11.81    |     \n AccountActivity | 97      | -$ -120.00   |     \n AccountActivity | 98      | -$ -4.00     |     \n AccountActivity | 99      | -$ -292.24   |     \n AccountActivity | 100     | -$ -4.00     |     \n AccountActivity | 101     | -$ -15.00    |     \n AccountActivity | 102     | -$ -259.13   |     \n AccountActivity | 103     | -$ -75.00    |     \n AccountActivity | 104     | -$ -26.51    |     \n AccountActivity | 105     | -$ -9.17     |     \n AccountActivity | 106     | -$ -300.00   |     \n AccountActivity | 107     | -$ -10.98    |     \n AccountActivity | 108     | -$ -80.00    |     \n AccountActivity | 109     | -$ -2.00     |     \n AccountActivity | 110     | -$ -169.55   |     \n AccountActivity | 111     | -$ -42.00    |     \n AccountActivity | 112     | -$ -136.93   |     \n AccountActivity | 113     | -$ -27.00    |     \n AccountActivity | 114     | -$ -140.11   |     \n AccountActivity | 115     | -$ -25.00    |     \n AccountActivity | 116     | -$ -24.28    |     \n AccountActivity | 117     | -$ -6.28     |     \n AccountActivity | 118     | -$ -2.00     |     \n AccountActivity | 119     | -$ -11.70    |     \n AccountActivity | 120     | -$ -20.00    |     \n AccountActivity | 121     | -$ -14.81    |     \n AccountActivity | 122     | -$ -20.00    |     \n AccountActivity | 123     | -$ -16.61    |     \n AccountActivity | 124     | -$ -9.36     |     \n AccountActivity | 125     | -$ -165.00   |     \n AccountActivity | 126     | -$ -48.99    |     \n AccountActivity | 127     | -$ -25.00    |     \n AccountActivity | 128     | -$ -18.99    |     \n---------------\n\nTransaction sums by table:\n N/A             | Sum      | Amounts missed: \n --------------- | -------- | --------------- \n AccountActivity | 10472.60 | 121             \n---------------\nTotal: 10632.61 + 10472.60 0 - 338.43 = 20766.78\nTransactions check: incorrect",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "date" : "Mon Apr 22 12:06:12 EEST 2019"
+    },
+    {
+      "id" : "006f400000MX8hYAAT",
+      "oppoName" : "Turf Technologies",
+      "oppoStatus" : "Active",
+      "processes" : [
+        {
+          "processName" : "Credit Report",
+          "stages" : [
+            {
+              "stageNameStr" : "CBCPulled",
+              "stageDate" : "Some(Mon Apr 22 13:06:44 EEST 2019)",
+              "stageStatus" : {
+                "statusStr" : "CompletedStStatus",
+                "log" : "all ok",
+                "errors" : [
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "processName" : "Document Processing",
+          "stages" : [
+            {
+              "stageNameStr" : "DocumentsDownloaded",
+              "stageDate" : "Some(Mon Apr 22 13:06:44 EEST 2019)",
               "stageStatus" : {
                 "statusStr" : "ErrorStStatus",
                 "log" : "No layout attached",
@@ -61,411 +880,12 @@
           ]
         }
       ],
-      "date" : "Mon Feb 25 11:42:42 EET 2019"
-    },
-    {
-      "id" : "006f400000JwunMAAR",
-      "oppoName" : "TLC Room and Board LLC",
-      "oppoStatus" : "Inactive",
-      "processes" : [
-        {
-          "processName" : "Application Recognition",
-          "stages" : [
-            {
-              "stageNameStr" : "ApplicationAttached",
-              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "006f400000JOkJJAA1",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Credit Report",
-          "stages" : [
-            {
-              "stageNameStr" : "CBCPulled",
-              "stageDate" : "Some(Mon Feb 25 11:50:47 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Everything is good",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "CreditDecline",
-              "stageDate" : "Some(Mon Feb 25 11:50:47 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "all ok",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Document Processing",
-          "stages" : [
-            {
-              "stageNameStr" : "DocumentsDownloaded",
-              "stageDate" : "Some(Mon Feb 25 11:50:52 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Wells Fargo Bank",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "FilesAttached",
-              "stageDate" : "Some(Mon Feb 25 11:57:44 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "C:\\Users\\user\\Desktop\\CSV\\WellsFargo\\Dec(006f400000JwunMAAR)\nC:\\Users\\user\\Desktop\\CSV\\WellsFargo\\jan(006f400000JwunMAAR)\nC:\\Users\\user\\Desktop\\CSV\\WellsFargo\\nov(006f400000JwunMAAR)",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "IntegrityValidated",
-              "stageDate" : "Some(Mon Feb 25 11:57:45 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Success(The operation completed successfully) Bank Name  | Correct Ones | All Ones | %   \n ---------- | ------------ | -------- | --- \n WellsFargo | 6            | 6        | 100 \n N/A \n --- ",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "AccountChosen",
-              "stageDate" : "Some(Mon Feb 25 11:57:49 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "7363280673 was obtained via Salesforce",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "SubmissionValidated",
-              "stageDate" : "Some(Mon Feb 25 11:57:49 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Documents attached",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "WithdrawalDecliner",
-              "stageDate" : "Some(Mon Feb 25 11:57:51 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "all ok",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "AdvancesValidated",
-              "stageDate" : "Some(Mon Feb 25 11:57:54 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "All records were good",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "TrueRevenue",
-              "stageDate" : "Some(Mon Feb 25 12:08:06 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "fixed from web",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "ExportedToSF",
-              "stageDate" : "Some(Mon Feb 25 12:08:26 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "export succefull",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "DocumentDecline",
-              "stageDate" : "Some(Mon Feb 25 12:08:29 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "all ok",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "date" : "Mon Feb 25 11:50:35 EET 2019"
-    },
-    {
-      "id" : "006f400000Jwuo2AAB",
-      "oppoName" : "New Beijing II Inc",
-      "oppoStatus" : "Inactive",
-      "processes" : [
-        {
-          "processName" : "Application Recognition",
-          "stages" : [
-            {
-              "stageNameStr" : "ApplicationAttached",
-              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "006f400000JOkJJAA1",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Credit Report",
-          "stages" : [
-            {
-              "stageNameStr" : "CBCPulled",
-              "stageDate" : "Some(Mon Feb 25 11:58:59 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Everything is good",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "CreditDecline",
-              "stageDate" : "Some(Mon Feb 25 11:59:03 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "StoppedStStatus",
-                "log" : "Auto declined, because of Open Trades",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "date" : "Mon Feb 25 11:58:49 EET 2019"
-    },
-    {
-      "id" : "006f400000Jww5WAAR",
-      "oppoName" : "Houston Glazing",
-      "oppoStatus" : "Inactive",
-      "processes" : [
-        {
-          "processName" : "Application Recognition",
-          "stages" : [
-            {
-              "stageNameStr" : "ApplicationAttached",
-              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "006f400000JOkJJAA1",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Credit Report",
-          "stages" : [
-            {
-              "stageNameStr" : "CBCPulled",
-              "stageDate" : "Some(Mon Feb 25 17:12:47 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Everything is good",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "CreditDecline",
-              "stageDate" : "Some(Mon Feb 25 17:12:50 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "StoppedStStatus",
-                "log" : "Auto declined, because of Open Trades",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "date" : "Mon Feb 25 17:12:37 EET 2019"
-    },
-    {
-      "id" : "006f400000Jww4xAAB",
-      "oppoName" : "Anchor Beverages Inc.",
-      "oppoStatus" : "Active",
-      "processes" : [
-        {
-          "processName" : "Application Recognition",
-          "stages" : [
-            {
-              "stageNameStr" : "ApplicationAttached",
-              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "006f400000JOkJJAA1",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Credit Report",
-          "stages" : [
-            {
-              "stageNameStr" : "CBCPulled",
-              "stageDate" : "Some(Mon Feb 25 17:08:12 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Everything is good",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "CreditDecline",
-              "stageDate" : "Some(Mon Feb 25 17:08:13 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "all ok",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Document Processing",
-          "stages" : [
-            {
-              "stageNameStr" : "DocumentsDownloaded",
-              "stageDate" : "Some(Mon Feb 25 17:08:22 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "BB&T",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "FilesAttached",
-              "stageDate" : "Some(Mon Feb 25 17:13:01 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "InProcessStStatus",
-                "log" : "",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "date" : "Mon Feb 25 17:08:00 EET 2019"
-    },
-    {
-      "id" : "006f400000Jww3fAAB",
-      "oppoName" : "R.S. Communications",
-      "oppoStatus" : "Active",
-      "processes" : [
-        {
-          "processName" : "Application Recognition",
-          "stages" : [
-            {
-              "stageNameStr" : "ApplicationAttached",
-              "stageDate" : "Some(Fri Feb 22 22:29:48 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "006f400000JOkJJAA1",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Credit Report",
-          "stages" : [
-            {
-              "stageNameStr" : "CBCPulled",
-              "stageDate" : "Some(Mon Feb 25 17:09:43 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Everything is good",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "CreditDecline",
-              "stageDate" : "Some(Mon Feb 25 17:09:43 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "all ok",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "processName" : "Document Processing",
-          "stages" : [
-            {
-              "stageNameStr" : "DocumentsDownloaded",
-              "stageDate" : "Some(Mon Feb 25 17:09:49 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "CompletedStStatus",
-                "log" : "Chase Bank",
-                "errors" : [
-                ]
-              }
-            },
-            {
-              "stageNameStr" : "FilesAttached",
-              "stageDate" : "Some(Mon Feb 25 17:13:01 EET 2019)",
-              "stageStatus" : {
-                "statusStr" : "InProcessStStatus",
-                "log" : "",
-                "errors" : [
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "date" : "Mon Feb 25 17:09:32 EET 2019"
+      "date" : "Mon Apr 22 13:06:24 EEST 2019"
     }
   ],
   "processes" : {
-    "Application Recognition" : [
-      "ApplicationAttached"
-    ],
     "Credit Report" : [
-      "CBCPulled",
-      "CreditDecline"
+      "CBCPulled"
     ],
     "Document Processing" : [
       "DocumentsDownloaded",
@@ -473,12 +893,13 @@
       "IntegrityValidated",
       "AccountChosen",
       "SubmissionValidated",
-      "WithdrawalDecliner",
       "AdvancesValidated",
+      "WithdrawalsCheck",
+      "WithdrawalDecliner",
       "TrueRevenue",
       "ExportedToSF",
       "DocumentDecline"
     ]
   },
-  "appVersion" : "super-4.0.5"
+  "appVersion" : "sonic-4.5.8"
 }

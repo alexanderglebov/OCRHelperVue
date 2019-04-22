@@ -1,0 +1,166 @@
+[
+  [
+    {
+      "date" : "2019-02-04",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_3_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-02-11",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_4_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-02-19",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_5_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-02-25",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_6_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    }
+  ],
+  [
+    {
+      "date" : "2019-01-02",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000276924_21_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-02",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000318261_5_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-03",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000303907_11_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-03",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000286324_17_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-07",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000269855_23_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-07",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000272902_22_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-07",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000302567_11_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-08",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000318261_6_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-08",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000276924_22_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-09",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000303907_12_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-10",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000286324_18_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-14",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000302567_12_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-14",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000272902_23_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -455.74,
+      "tags" : "GenericWithdrawals"
+    }
+  ],
+  [
+    {
+      "date" : "2019-01-03",
+      "descr" : "Fundbox INC. DES:ADV DEBIT ID:ACoDZA sCwPlw INDN:OLA M BELL-ZIRABA CO ID:13647591 82 CCD",
+      "amount" : -808.95,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-10",
+      "descr" : "Fundbox INC. DES:ADV DEBIT ID:ACoDZA EicOBA INDN:OLA M BELL-ZIRABA CO ID:13647591 82 CCD",
+      "amount" : -808.95,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-17",
+      "descr" : "Fundbox INC. DES:ADV DEBIT ID:ACoDZA FhYmAQ INDN:OLA M BELL-ZIRABA CO ID:13647591 82 CCD",
+      "amount" : -808.95,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-24",
+      "descr" : "Fundbox INC. DES:ADV DEBIT ID:ACoDZA MCovBg INDN:OLA M BELL-ZIRABA CO ID:13647591 82 CCD",
+      "amount" : -808.95,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-01-31",
+      "descr" : "Fundbox INC. DES:ADV DEBIT ID:ACoDZA EAgGCw INDN:OLA M BELL-ZIRABA CO ID:13647591 82 CCD",
+      "amount" : -808.95,
+      "tags" : "GenericWithdrawals"
+    }
+  ],
+  [
+    {
+      "date" : "2019-03-04",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_7_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-03-11",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_8_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-03-18",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_9_1 INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    },
+    {
+      "date" : "2019-03-25",
+      "descr" : "Bluevine Capital DES:EDI PYMNTS ID:d0000336320_10_ INDN:GIFTED CHILD RESOURCES CO ID:3463229218 CCD",
+      "amount" : -1939.5,
+      "tags" : "GenericWithdrawals"
+    }
+  ]
+]
