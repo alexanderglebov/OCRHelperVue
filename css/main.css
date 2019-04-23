@@ -6,3 +6,7 @@
 .advTable th {
     background-color: #9caab6;
 }
+
+#preselection {
+    max-width: 25%;
+}

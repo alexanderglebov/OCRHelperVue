@@ -38,6 +38,8 @@ new Vue({
           break
         case 'AdvancesValidated': this.$refs.advancesModal.showModal()
           break
+        case 'TrueRevenue': this.$refs.revenuesModal.showModal()
+          break
         default: this.$refs.logModal.showModal()
       }
     }

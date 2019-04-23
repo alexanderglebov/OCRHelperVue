@@ -43,13 +43,18 @@ Vue.component('files-attached-modal',{
   var self = this
   var filterBy = $('#filesLabelFilter').val().toLowerCase()
   self.options = self.json.files.filter(fileName => fileName.toLowerCase().includes(filterBy))
-}
+},
+    clearFilterFilesAttached: function() {
+      var self = this
+      $('#filesLabelFilter').val('')
+      self.options = self.json.files
+    }
 },
   template: '<b-modal size="lg" ref="filesAttachedModalRef" :title="stageName" id="filesAttachedModal">' +
   '<div class="input-group mb-3">' +
   '<input type="text" class="form-control" aria-describedby="basic-addon2" id="filesLabelFilter">' +
     '<div class="input-group-append">' +
-  '<button class="btn btn-outline-secondary" type="button" v-on:click="filterFilesAttached">Filter</button></div></div>' +
+  '<button class="btn btn-outline-secondary" type="button" v-on:click="clearFilterFilesAttached">Clear</button><button class="btn btn-outline-secondary" type="button" v-on:click="filterFilesAttached">Filter</button></div></div>' +
   '<div class="advDiv"><div class="form-check border-bottom" v-for="file in options">' +
   '<input class="form-check-input" type="checkbox" :value="file" v-model="files"><label class="form-check-label">{{file}}</label>' +
   '</div></div>' +

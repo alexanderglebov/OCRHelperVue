@@ -1,0 +1,2918 @@
+[
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 2,
+    "date" : "2019-02-01",
+    "descr" : "Synchrony Bank Btot Dep 190131 534812028820838 Everett Veterinary Hos",
+    "amount" : "546",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 3,
+    "date" : "2019-02-01",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 013119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1586.56",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 4,
+    "date" : "2019-02-01",
+    "descr" : "Deposit",
+    "amount" : "37.33",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 5,
+    "date" : "2019-02-01",
+    "descr" : "Deposit",
+    "amount" : "265.26",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 6,
+    "date" : "2019-02-01",
+    "descr" : "Deposit",
+    "amount" : "279.55",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 7,
+    "date" : "2019-02-01",
+    "descr" : "Deposit",
+    "amount" : "376.66",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 8,
+    "date" : "2019-02-01",
+    "descr" : "Deposit",
+    "amount" : "86",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 9,
+    "date" : "2019-02-01",
+    "descr" : "Deposit",
+    "amount" : "238.72",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 12,
+    "date" : "2019-02-04",
+    "descr" : "Pay pa I Verifybank 190202 1004869299757 Veronica Hanley",
+    "amount" : "0.09",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 13,
+    "date" : "2019-02-04",
+    "descr" : "Pay pa I Verifybank 190202 1004869299755 Veronica Hanley",
+    "amount" : "0.13",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 14,
+    "date" : "2019-02-04",
+    "descr" : "Synchrony Bank Btot Dep 190203 534812028820838 Everett Veterinary Hos",
+    "amount" : "55.82",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 15,
+    "date" : "2019-02-04",
+    "descr" : "Synchrony Bank Btot Dep 190201 534812028820838 Everett Veterinary Hos",
+    "amount" : "56.53",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 16,
+    "date" : "2019-02-04",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1122.26",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 17,
+    "date" : "2019-02-04",
+    "descr" : "Pay pa I Transfer 190202 1004862122156 Veronica Hanley",
+    "amount" : "1747.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 18,
+    "date" : "2019-02-04",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1825.97",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 28,
+    "date" : "2019-02-05",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "68",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 29,
+    "date" : "2019-02-05",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "448.27",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 34,
+    "date" : "2019-02-06",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2361.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 37,
+    "date" : "2019-02-07",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1552.84",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 41,
+    "date" : "2019-02-08",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "3225.68",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 42,
+    "date" : "2019-02-08",
+    "descr" : "Deposit",
+    "amount" : "178.13",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 43,
+    "date" : "2019-02-08",
+    "descr" : "Deposit",
+    "amount" : "247.55",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 44,
+    "date" : "2019-02-08",
+    "descr" : "Deposit",
+    "amount" : "219.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 45,
+    "date" : "2019-02-08",
+    "descr" : "Deposit",
+    "amount" : "273.72",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 46,
+    "date" : "2019-02-08",
+    "descr" : "Deposit",
+    "amount" : "104.11",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 47,
+    "date" : "2019-02-08",
+    "descr" : "Deposit",
+    "amount" : "192.28",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 48,
+    "date" : "2019-02-08",
+    "descr" : "Deposit Made In A Branch/Store",
+    "amount" : "1211.55",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 52,
+    "date" : "2019-02-11",
+    "descr" : "Merchant Banked Deposit 190209 496235441888 Everett Veterinary Hos",
+    "amount" : "163.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 53,
+    "date" : "2019-02-11",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020919 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "941.96",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 54,
+    "date" : "2019-02-11",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 020819 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2181.41",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 55,
+    "date" : "2019-02-11",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05S6Mtb9 on 02/11/19",
+    "amount" : "4000",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 62,
+    "date" : "2019-02-12",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "205",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 63,
+    "date" : "2019-02-12",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05S9Ln64 on 02/11/19",
+    "amount" : "2500",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 67,
+    "date" : "2019-02-13",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021219 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "3334.65",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 71,
+    "date" : "2019-02-14",
+    "descr" : "Merchant Banked Deposit 190213 496235441888 Everett Veterinary Hos",
+    "amount" : "153.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 72,
+    "date" : "2019-02-14",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1357.6",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 77,
+    "date" : "2019-02-15",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "529.57",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 78,
+    "date" : "2019-02-15",
+    "descr" : "Deposit",
+    "amount" : "411.49",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 79,
+    "date" : "2019-02-15",
+    "descr" : "Deposit",
+    "amount" : "216.32",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 80,
+    "date" : "2019-02-15",
+    "descr" : "Deposit",
+    "amount" : "34.39",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 82,
+    "date" : "2019-02-19",
+    "descr" : "Square Inc Sdv-Vrfy 190218 T20097810543 Sweet Wolverine Manage",
+    "amount" : "0.01",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 83,
+    "date" : "2019-02-19",
+    "descr" : "Merchant Banked Deposit 190216 496235441888 Everett Veterinary Hos",
+    "amount" : "57.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 84,
+    "date" : "2019-02-19",
+    "descr" : "Synchrony Bank Btot Dep 190215 534812028820838 Everett Veterinary Hos",
+    "amount" : "112.77",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 85,
+    "date" : "2019-02-19",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "301.67",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 86,
+    "date" : "2019-02-19",
+    "descr" : "Synchrony Bank Btot Dep 190217 534812028820838 Everett Veterinary Hos",
+    "amount" : "1177.05",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 87,
+    "date" : "2019-02-19",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1923.76",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 88,
+    "date" : "2019-02-19",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2146.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 97,
+    "date" : "2019-02-20",
+    "descr" : "Merchant Banked Deposit 190219 496235441888 Everett Veterinary Hos",
+    "amount" : "210.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 98,
+    "date" : "2019-02-20",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 021919 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2651.78",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 100,
+    "date" : "2019-02-21",
+    "descr" : "Merchant Banked Deposit 190220 496235441888 Everett Veterinary Hos",
+    "amount" : "234.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 101,
+    "date" : "2019-02-21",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022019 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1569.77",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 107,
+    "date" : "2019-02-22",
+    "descr" : "Merchant Banked Deposit 190221 496235441888 Everett Veterinary Hos",
+    "amount" : "22.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 108,
+    "date" : "2019-02-22",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "725.24",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 109,
+    "date" : "2019-02-22",
+    "descr" : "Deposit",
+    "amount" : "22.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 110,
+    "date" : "2019-02-22",
+    "descr" : "Deposit",
+    "amount" : "166.29",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 111,
+    "date" : "2019-02-22",
+    "descr" : "Deposit",
+    "amount" : "155.11",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 112,
+    "date" : "2019-02-22",
+    "descr" : "Deposit",
+    "amount" : "7.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 113,
+    "date" : "2019-02-22",
+    "descr" : "Deposit",
+    "amount" : "354.62",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 114,
+    "date" : "2019-02-22",
+    "descr" : "Deposit",
+    "amount" : "114",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 120,
+    "date" : "2019-02-25",
+    "descr" : "Merchant Banked Deposit 190222 496235441888 Everett Veterinary Hos",
+    "amount" : "57.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 121,
+    "date" : "2019-02-25",
+    "descr" : "Square Inc 190225R2 1 90225 L208421329119 Sweet Wolverine Manage",
+    "amount" : "1.94",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 122,
+    "date" : "2019-02-25",
+    "descr" : "Square Inc 190225R2 1 90225 L208421329120 Sweet Wolverine Manage",
+    "amount" : "77.66",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 123,
+    "date" : "2019-02-25",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "104.67",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 124,
+    "date" : "2019-02-25",
+    "descr" : "Synchrony Bank Btot Dep 190222 534812028820838 Everett Veterinary Hos",
+    "amount" : "277.28",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 125,
+    "date" : "2019-02-25",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "408.14",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 126,
+    "date" : "2019-02-25",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022219 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1981.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 127,
+    "date" : "2019-02-25",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05V2D7Bh on 02/25/19",
+    "amount" : "10000",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 136,
+    "date" : "2019-02-26",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "154.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 139,
+    "date" : "2019-02-27",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1485.88",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 146,
+    "date" : "2019-02-28",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2071.36",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802be",
+    "seqNum" : 152,
+    "date" : "2019-02-28",
+    "descr" : "Interest Payment",
+    "amount" : "0.01",
+    "isDeducted" : true,
+    "tags" : [
+      "OtherDeductables"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 1,
+    "date" : "2019-01-02",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 123118 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "203",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 2,
+    "date" : "2019-01-02",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010119 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "4050.97",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 13,
+    "date" : "2019-01-04",
+    "descr" : "Synchrony Bank Btot Dep 190103 534812028820838 Everett Veterinary Hos",
+    "amount" : "511.07",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 14,
+    "date" : "2019-01-04",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010319 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "4350.69",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 15,
+    "date" : "2019-01-04",
+    "descr" : "Deposit",
+    "amount" : "18.55",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 16,
+    "date" : "2019-01-04",
+    "descr" : "Deposit",
+    "amount" : "114.06",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 17,
+    "date" : "2019-01-04",
+    "descr" : "Deposit",
+    "amount" : "134",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 18,
+    "date" : "2019-01-04",
+    "descr" : "Deposit",
+    "amount" : "48.1",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 19,
+    "date" : "2019-01-04",
+    "descr" : "Deposit",
+    "amount" : "840.84",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 20,
+    "date" : "2019-01-04",
+    "descr" : "Deposit",
+    "amount" : "647.66",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 21,
+    "date" : "2019-01-04",
+    "descr" : "Deposit",
+    "amount" : "425.78",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 22,
+    "date" : "2019-01-04",
+    "descr" : "Deposit Made In A Branch/Store",
+    "amount" : "30.35",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 31,
+    "date" : "2019-01-07",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010519 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "58.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 32,
+    "date" : "2019-01-07",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010619 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "1916.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 33,
+    "date" : "2019-01-07",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010419 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "2966.57",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 40,
+    "date" : "2019-01-08",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010719 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "1318.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 41,
+    "date" : "2019-01-08",
+    "descr" : "Online Transfer From Hicks R Ref #lb05Mwdlwq Savings Last Loan",
+    "amount" : "13000",
+    "isDeducted" : true,
+    "tags" : [
+      "OtherDeductables"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 50,
+    "date" : "2019-01-09",
+    "descr" : "Vetsfirstchoice Ecommerce 0082334 Vetsfirstchoice",
+    "amount" : "67.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 51,
+    "date" : "2019-01-09",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010819 4445026450718 Mercury Comb. Dep. Term 1364561",
+    "amount" : "1689.41",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 57,
+    "date" : "2019-01-10",
+    "descr" : "Merchant Banked Deposit 190109 496235441888 Everett Veterinary Hos",
+    "amount" : "51.1",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 58,
+    "date" : "2019-01-10",
+    "descr" : "Synchrony Bank Btot Dep 190109 534812028820838 Everett Veterinary Hos",
+    "amount" : "519.84",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 59,
+    "date" : "2019-01-10",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 010919 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2423.38",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 60,
+    "date" : "2019-01-10",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05N3H93Y on 01/10/19",
+    "amount" : "500",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 67,
+    "date" : "2019-01-11",
+    "descr" : "Merchant Banked Fee 190110 496235441888 Everett Veterinary Hos",
+    "amount" : "119",
+    "isDeducted" : true,
+    "tags" : [
+      "OtherDeductables"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 68,
+    "date" : "2019-01-11",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011019 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2676",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 69,
+    "date" : "2019-01-11",
+    "descr" : "Deposit",
+    "amount" : "0.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 70,
+    "date" : "2019-01-11",
+    "descr" : "Deposit",
+    "amount" : "294.68",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 71,
+    "date" : "2019-01-11",
+    "descr" : "Deposit",
+    "amount" : "17.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 72,
+    "date" : "2019-01-11",
+    "descr" : "Deposit",
+    "amount" : "838.32",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 73,
+    "date" : "2019-01-11",
+    "descr" : "Deposit",
+    "amount" : "47",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 74,
+    "date" : "2019-01-11",
+    "descr" : "Deposit",
+    "amount" : "378.2",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 77,
+    "date" : "2019-01-14",
+    "descr" : "Merchant Banked Deposit 190112 496235441888 Everett Veterinary Hos",
+    "amount" : "184.85",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 78,
+    "date" : "2019-01-14",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "307.78",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 79,
+    "date" : "2019-01-14",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011219 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "363.97",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 80,
+    "date" : "2019-01-14",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1993.91",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 81,
+    "date" : "2019-01-14",
+    "descr" : "Synchrony Bank Btot Dep 190111 534812028820838 Everett Veterinary Hos",
+    "amount" : "2308.16",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 82,
+    "date" : "2019-01-14",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05Njkr2F on 01/14/19",
+    "amount" : "7000",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 83,
+    "date" : "2019-01-14",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05Nk5Vbq on 01/14/19",
+    "amount" : "800",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 84,
+    "date" : "2019-01-14",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05Nlnlx6 on 01/14/19",
+    "amount" : "3000",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 93,
+    "date" : "2019-01-15",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "97",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 98,
+    "date" : "2019-01-16",
+    "descr" : "Synchrony Bank Btot Dep 190115 534812028820838 Everett Veterinary Hos",
+    "amount" : "54.94",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 99,
+    "date" : "2019-01-16",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2139.58",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 102,
+    "date" : "2019-01-17",
+    "descr" : "Merchant Banked Deposit 190116 496235441888 Everett Veterinary Hos",
+    "amount" : "81.56",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 103,
+    "date" : "2019-01-17",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2166.94",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 108,
+    "date" : "2019-01-18",
+    "descr" : "Merchant Banked Deposit 190117 496235441888 Everett Veterinary Hos",
+    "amount" : "57.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 109,
+    "date" : "2019-01-18",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2896.83",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 110,
+    "date" : "2019-01-18",
+    "descr" : "Deposit",
+    "amount" : "38.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 111,
+    "date" : "2019-01-18",
+    "descr" : "Deposit",
+    "amount" : "438.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 112,
+    "date" : "2019-01-18",
+    "descr" : "Deposit",
+    "amount" : "521.14",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 113,
+    "date" : "2019-01-18",
+    "descr" : "Deposit",
+    "amount" : "304.59",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 114,
+    "date" : "2019-01-18",
+    "descr" : "Deposit",
+    "amount" : "333.78",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 120,
+    "date" : "2019-01-22",
+    "descr" : "Merchant Banked Deposit 190118 496235441888 Everett Veterinary Hos",
+    "amount" : "109.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 121,
+    "date" : "2019-01-22",
+    "descr" : "Synchrony Bank Btot Dep 190120 534812028820838 Everett Veterinary Hos",
+    "amount" : "90.66",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 122,
+    "date" : "2019-01-22",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011919 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "364.23",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 123,
+    "date" : "2019-01-22",
+    "descr" : "Synchrony Bank Btot Dep 190118 534812028820838 Everett Veterinary Hos",
+    "amount" : "493.84",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 124,
+    "date" : "2019-01-22",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012019 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1377.79",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 125,
+    "date" : "2019-01-22",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 011819 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1772.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 126,
+    "date" : "2019-01-22",
+    "descr" : "Edeposit IN Branch/Store 01/22/19 11:29:16 Am 2809 S 6th St Klamath Falls OR 0057",
+    "amount" : "650",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 127,
+    "date" : "2019-01-22",
+    "descr" : "Online Transfer From Hanley V Wells Fargo at Work Checking XXXXXX5285 Ref #lb05Pkxnkw on 01/22/19",
+    "amount" : "1000",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 138,
+    "date" : "2019-01-23",
+    "descr" : "Synchrony Bank Btot Dep 190122 534812028820838 Everett Veterinary Hos",
+    "amount" : "187.33",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 139,
+    "date" : "2019-01-23",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012219 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "4766.78",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 147,
+    "date" : "2019-01-24",
+    "descr" : "Merchant Banked Deposit 190123 496235441888 Everett Veterinary Hos",
+    "amount" : "44.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 148,
+    "date" : "2019-01-24",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1063.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 153,
+    "date" : "2019-01-25",
+    "descr" : "Merchant Banked Deposit 190124 496235441888 Everett Veterinary Hos",
+    "amount" : "62.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 154,
+    "date" : "2019-01-25",
+    "descr" : "Synchrony Bank Btot Dep 190124 534812028820838 Everett Veterinary Hos",
+    "amount" : "1812.19",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 155,
+    "date" : "2019-01-25",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "3130.05",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 156,
+    "date" : "2019-01-25",
+    "descr" : "Deposit",
+    "amount" : "112.22",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 157,
+    "date" : "2019-01-25",
+    "descr" : "Deposit",
+    "amount" : "439.88",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 158,
+    "date" : "2019-01-25",
+    "descr" : "Deposit",
+    "amount" : "72.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 159,
+    "date" : "2019-01-25",
+    "descr" : "Deposit",
+    "amount" : "1285.1",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 160,
+    "date" : "2019-01-25",
+    "descr" : "Deposit",
+    "amount" : "292.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 163,
+    "date" : "2019-01-28",
+    "descr" : "Merchant Banked Deposit 190125 496235441888 Everett Veterinary Hos",
+    "amount" : "68.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 164,
+    "date" : "2019-01-28",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "121.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 165,
+    "date" : "2019-01-28",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "450.86",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 166,
+    "date" : "2019-01-28",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2144.28",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 167,
+    "date" : "2019-01-28",
+    "descr" : "Deposit Made In A Branch/Store",
+    "amount" : "1196.42",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 168,
+    "date" : "2019-01-28",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05Q9Hd39 on 01/28/19",
+    "amount" : "7500",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 175,
+    "date" : "2019-01-29",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012819 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "373.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 180,
+    "date" : "2019-01-30",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 012919 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2645.33",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 188,
+    "date" : "2019-01-31",
+    "descr" : "Synchrony Bank Btot Dep 190130 534812028820838 Everett Veterinary Hos",
+    "amount" : "143.15",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 189,
+    "date" : "2019-01-31",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 013019 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1033.59",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802bf",
+    "seqNum" : 193,
+    "date" : "2019-01-31",
+    "descr" : "Interest Payment",
+    "amount" : "0.02",
+    "isDeducted" : true,
+    "tags" : [
+      "OtherDeductables"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 0,
+    "date" : "2019-03-01",
+    "descr" : "Intuit Financin Payment 190228 001000014675374 Veronica Hanley",
+    "amount" : "3.51",
+    "isDeducted" : true,
+    "tags" : [
+      "DepositAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 1,
+    "date" : "2019-03-01",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 022819 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2145.75",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 2,
+    "date" : "2019-03-01",
+    "descr" : "Deposit",
+    "amount" : "60",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 3,
+    "date" : "2019-03-01",
+    "descr" : "Deposit",
+    "amount" : "26.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 4,
+    "date" : "2019-03-01",
+    "descr" : "Deposit",
+    "amount" : "25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 5,
+    "date" : "2019-03-01",
+    "descr" : "Deposit",
+    "amount" : "399.77",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 10,
+    "date" : "2019-03-04",
+    "descr" : "Merchant Banked Deposit 190301 496235441888 Everett Veterinary Hos",
+    "amount" : "47.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 11,
+    "date" : "2019-03-04",
+    "descr" : "Synchrony Bank Btot Dep 190301 534812028820838 Everett Veterinary Hos",
+    "amount" : "245.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 12,
+    "date" : "2019-03-04",
+    "descr" : "Synchrony Bank Btot Dep 190303 534812028820838 Everett Veterinary Hos",
+    "amount" : "538.87",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 13,
+    "date" : "2019-03-04",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030219 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "644.06",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 14,
+    "date" : "2019-03-04",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2354.47",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 15,
+    "date" : "2019-03-04",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "3096.77",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 24,
+    "date" : "2019-03-05",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "310.43",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 25,
+    "date" : "2019-03-05",
+    "descr" : "Online Transfer From Hanley V Wells Fargo at Work Checking XXXXXX5285 Ref #lb05WF6Tjy on 03/05/19",
+    "amount" : "1000",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 26,
+    "date" : "2019-03-05",
+    "descr" : "Online Transfer From Sweet Wolverine Holdings LLC Business Market Rate Savings xxxxxx5648 Ref #lb05WF6Wjv on 03/05/19",
+    "amount" : "494",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 31,
+    "date" : "2019-03-06",
+    "descr" : "Square Inc 190306R2 190306 L208423651962 Sweet Wolverine Manage",
+    "amount" : "156.67",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 32,
+    "date" : "2019-03-06",
+    "descr" : "Synchrony Bank Btot Dep 190305 534812028820838 Everett Veterinary Hos",
+    "amount" : "191.47",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 33,
+    "date" : "2019-03-06",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2028.47",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 38,
+    "date" : "2019-03-07",
+    "descr" : "Merchant Banked Deposit 190306 496235441888 Everett Veterinary Hos",
+    "amount" : "83.16",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 39,
+    "date" : "2019-03-07",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1825.27",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 43,
+    "date" : "2019-03-08",
+    "descr" : "Merchant Banked Deposit 190307 496235441888 Everett Veterinary Hos",
+    "amount" : "100.07",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 44,
+    "date" : "2019-03-08",
+    "descr" : "Square Inc 190308R2 190308 L208424311353 Sweet Wolverine Manage",
+    "amount" : "140.74",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 45,
+    "date" : "2019-03-08",
+    "descr" : "Synchrony Bank Btot Dep 190307 534812028820838 Everett Veterinary Hos",
+    "amount" : "840.89",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 46,
+    "date" : "2019-03-08",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1133.45",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 47,
+    "date" : "2019-03-08",
+    "descr" : "Deposit",
+    "amount" : "4718.38",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 48,
+    "date" : "2019-03-08",
+    "descr" : "Deposit",
+    "amount" : "125.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 49,
+    "date" : "2019-03-08",
+    "descr" : "Deposit",
+    "amount" : "225",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 50,
+    "date" : "2019-03-08",
+    "descr" : "Deposit",
+    "amount" : "141.02",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 51,
+    "date" : "2019-03-08",
+    "descr" : "Deposit",
+    "amount" : "313.87",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 52,
+    "date" : "2019-03-08",
+    "descr" : "Deposit",
+    "amount" : "1124.62",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 56,
+    "date" : "2019-03-11",
+    "descr" : "Square Inc 190311R2 190311 L208424971937 Sweet Wolverine Manage",
+    "amount" : "14.32",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 57,
+    "date" : "2019-03-11",
+    "descr" : "Merchant Banked Deposit 190308 496235441888 Everett Veterinary Hos",
+    "amount" : "155.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 58,
+    "date" : "2019-03-11",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031019 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "315.08",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 59,
+    "date" : "2019-03-11",
+    "descr" : "Square Inc 190311R2 190311 L208424971938 Sweet Wolverine Manage",
+    "amount" : "734.02",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 60,
+    "date" : "2019-03-11",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030919 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "794.79",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 61,
+    "date" : "2019-03-11",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 030819 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2345.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 70,
+    "date" : "2019-03-12",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1639.81",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 77,
+    "date" : "2019-03-13",
+    "descr" : "Synchrony Bank Btot Dep 190312 534812028820838 Everett Veterinary Hos",
+    "amount" : "28.89",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 78,
+    "date" : "2019-03-13",
+    "descr" : "Merchant Banked Deposit 190312 496235441888 Everett Veterinary Hos",
+    "amount" : "151.85",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 79,
+    "date" : "2019-03-13",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031219 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2842.68",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 85,
+    "date" : "2019-03-14",
+    "descr" : "Merchant Banked Deposit 190313 496235441888 Everett Veterinary Hos",
+    "amount" : "26.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 86,
+    "date" : "2019-03-14",
+    "descr" : "Synchrony Bank Btot Dep 190313 534812028820838 Everett Veterinary Hos",
+    "amount" : "28.45",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 87,
+    "date" : "2019-03-14",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1678.82",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 94,
+    "date" : "2019-03-15",
+    "descr" : "Synchrony Bank Btot Dep 190314 534812028820838 Everett Veterinary Hos",
+    "amount" : "1112.7",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 95,
+    "date" : "2019-03-15",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2214.22",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 96,
+    "date" : "2019-03-15",
+    "descr" : "Deposit",
+    "amount" : "43.6",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 97,
+    "date" : "2019-03-15",
+    "descr" : "Deposit",
+    "amount" : "35",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 98,
+    "date" : "2019-03-15",
+    "descr" : "Deposit",
+    "amount" : "204.19",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 99,
+    "date" : "2019-03-15",
+    "descr" : "Deposit",
+    "amount" : "126.71",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 100,
+    "date" : "2019-03-15",
+    "descr" : "Deposit",
+    "amount" : "1692.89",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 101,
+    "date" : "2019-03-15",
+    "descr" : "Deposit",
+    "amount" : "79",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 102,
+    "date" : "2019-03-15",
+    "descr" : "Deposit",
+    "amount" : "265.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 107,
+    "date" : "2019-03-18",
+    "descr" : "Merchant Banked Deposit 190315 496235441888 Everett Veterinary Hos",
+    "amount" : "28.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 108,
+    "date" : "2019-03-18",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "236.44",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 109,
+    "date" : "2019-03-18",
+    "descr" : "Synchrony Bank Btot Dep 190317 534812028820838 Everett Veterinary Hos",
+    "amount" : "373.04",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 110,
+    "date" : "2019-03-18",
+    "descr" : "Synchrony Bank Btot Dep 190315 534812028820838 Everett Veterinary Hos",
+    "amount" : "512.68",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 111,
+    "date" : "2019-03-18",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1305.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 112,
+    "date" : "2019-03-18",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031519 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2203.09",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 125,
+    "date" : "2019-03-19",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031819 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "145.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 131,
+    "date" : "2019-03-20",
+    "descr" : "Synchrony Bank Btot Dep 190319 534812028820838 Everett Veterinary Hos",
+    "amount" : "82.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 132,
+    "date" : "2019-03-20",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 031919 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1970.34",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 138,
+    "date" : "2019-03-21",
+    "descr" : "Synchrony Bank Btot Dep 190320 534812028820838 Everett Veterinary Hos",
+    "amount" : "699.29",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 139,
+    "date" : "2019-03-21",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032019 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1294.57",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 146,
+    "date" : "2019-03-22",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032119 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "3250.51",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 147,
+    "date" : "2019-03-22",
+    "descr" : "Deposit",
+    "amount" : "129.02",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 148,
+    "date" : "2019-03-22",
+    "descr" : "Deposit",
+    "amount" : "102.35",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 149,
+    "date" : "2019-03-22",
+    "descr" : "Deposit",
+    "amount" : "33.06",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 150,
+    "date" : "2019-03-22",
+    "descr" : "Deposit",
+    "amount" : "64.15",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 151,
+    "date" : "2019-03-22",
+    "descr" : "Deposit",
+    "amount" : "63.78",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 152,
+    "date" : "2019-03-22",
+    "descr" : "Deposit",
+    "amount" : "22.58",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 162,
+    "date" : "2019-03-25",
+    "descr" : "Merchant Banked Deposit 190322 496235441888 Everett Veterinary Hos",
+    "amount" : "240.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 163,
+    "date" : "2019-03-25",
+    "descr" : "Square Inc 190325R2 190325 L208428930255 Sweet Wolverine Manage",
+    "amount" : "240.11",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 164,
+    "date" : "2019-03-25",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032219 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "907.93",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 165,
+    "date" : "2019-03-25",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032319 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1047.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 166,
+    "date" : "2019-03-25",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032419 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1442.12",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 167,
+    "date" : "2019-03-25",
+    "descr" : "Online Transfer From Hicks R Savings xxxxxx1642 Ref #lb05Z2Cwtt on 03/25/19",
+    "amount" : "4000",
+    "isDeducted" : true,
+    "tags" : [
+      "OnlineTransfers"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 202,
+    "date" : "2019-03-27",
+    "descr" : "Patterson Vet Vet Supply 190326 1939498 Veronica �Hanley",
+    "amount" : "15",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 203,
+    "date" : "2019-03-27",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032619 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "2597.85",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 211,
+    "date" : "2019-03-28",
+    "descr" : "Synchrony Bank Btot Dep 190327 534812028820838 Everett Veterinary Hos",
+    "amount" : "51.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 212,
+    "date" : "2019-03-28",
+    "descr" : "Merchant Banked Deposit 190327 496235441888 Everett Veterinary Hos",
+    "amount" : "162.85",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 213,
+    "date" : "2019-03-28",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032719 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1950.65",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 220,
+    "date" : "2019-03-29",
+    "descr" : "Synchrony Bank Btot Dep 190328 534812028820838 Everett Veterinary Hos",
+    "amount" : "394",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 221,
+    "date" : "2019-03-29",
+    "descr" : "5/3 Bankcard Sys Comb. Dep. 032819 4445026450718 Mercury Comb. Dep. Term 45026450718",
+    "amount" : "1187.56",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 222,
+    "date" : "2019-03-29",
+    "descr" : "Deposit",
+    "amount" : "677.47",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 223,
+    "date" : "2019-03-29",
+    "descr" : "Deposit",
+    "amount" : "16.97",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 224,
+    "date" : "2019-03-29",
+    "descr" : "Deposit",
+    "amount" : "835.55",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 225,
+    "date" : "2019-03-29",
+    "descr" : "Deposit",
+    "amount" : "120.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 226,
+    "date" : "2019-03-29",
+    "descr" : "Deposit",
+    "amount" : "1456.23",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 227,
+    "date" : "2019-03-29",
+    "descr" : "Deposit",
+    "amount" : "130.39",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericDeposits"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cbdd4b855278129442802c0",
+    "seqNum" : 233,
+    "date" : "2019-03-29",
+    "descr" : "Interest Payment",
+    "amount" : "0.02",
+    "isDeducted" : true,
+    "tags" : [
+      "OtherDeductables"
+    ],
+    "manualFix" : false
+  }
+]
