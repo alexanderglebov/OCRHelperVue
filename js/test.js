@@ -69,7 +69,10 @@ new Vue({
  // }
 
 function showHeaders(json) {
-  var headers = ['id', {key: 'oppoName', label: 'Opportunity Name'}]
+  var headers = ['id', {tdAttr: function (_, __, obj) {
+      // console.log(arguments)
+      return { 'data-id': obj.id }
+    }, key: 'oppoName', label: 'Opportunity Name', tdClass: 'contextMenu'}]
   for (var processName in json.processes){
     headers.push(processName)
   }
@@ -245,3 +248,25 @@ function setVersion (version) {
 }
 
 setAppVersion()
+
+// register context menu
+$.contextMenu({
+  selector: '.contextMenu',
+  className: 'data-title',
+  callback: function(key, options) {
+    var m = "clicked: " + $(this).data('id');
+    window.console && console.log(m) || alert(m);
+  },
+  items: {
+    "sendFeed": {name: "Send Feed", icon: "edit"},
+   // "cut": {name: "Cut", icon: "cut"},
+    "copyId": {name: "Copy ID", icon: "copy"},
+    "newSubmission": {name: "New Submission", icon: "paste"},
+    "clearSf": {name: "Clear SF", icon: "delete"},
+    // "sep1": "---------",
+    // "quit": {name: "Quit", icon: function($element, key, item){ return 'context-menu-icon context-menu-icon-quit'; }}
+  }
+});
+
+// set a title of menu
+$('.data-title').attr('data-menutitle', "Some Title");
