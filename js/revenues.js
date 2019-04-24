@@ -9,6 +9,7 @@ Vue.component('revenues-modal',{
       json: {},
       options: [],
       files: [],
+      keywordForSend: '',
       keywords: [
         '-- Choose Category --',
         'McaDepoWithdNames',
@@ -84,14 +85,17 @@ Vue.component('revenues-modal',{
     changeCat: function (categoryName, revenue) {
       console.log(categoryName)
       console.log(revenue)
+    },
+    changeRevenueKeyword(keyword){
+      this.keywordForSend = keyword
     }
   },
   template: '<b-modal size="lg" ref="revenuesModalRef" :title="stageName" id="revenuesModal" >' +
   '<b-input-group class="mt" style="margin-bottom: 10px">' +
-  '<b-form-select prepend v-model="keywords[0]" id="preselection">' +
+  '<b-form-select prepend v-model="keywords[0]" id="preselection" v-on:change="changeRevenueKeyword($event)">' +
   '<option v-for="key in keywords">{{key}}</option>' +
   '</b-form-select>' +
-  '<b-form-input></b-form-input>' +
+  '<b-form-input id="revenue-label"></b-form-input>' +
   '<b-button slot="append" variant="secondary">Add</b-button>' +
   '</b-input-group>' +
 
@@ -100,7 +104,7 @@ Vue.component('revenues-modal',{
   '<div class="advDiv"><table class="table table-striped table-hover table-bordered advTable"  >' +
   '<th>Date</th><th>Description</th><th width="100">Amount</th><th width="220">Tags</th><th>Deducted</th>' +
   '<tr v-for="revenue in json">' +
-  '<td>{{revenue.date}}</td><td onclick="addMcaLabel()">{{revenue.descr}}</td><td>{{revenue.amount}}</td><td>' +
+  '<td>{{revenue.date}}</td><td onclick="addRevDescr()">{{revenue.descr}}</td><td>{{revenue.amount}}</td><td>' +
   '<b-form-select v-model="revenue.tags[0]" v-on:change="changeCat($event, revenue)">' +
   '<template slot="first"><option>{{revenue.tags[0]}}</option></template>' +
   '<option v-for="revenueCat in revenueCategories" >{{revenueCat}}</option></b-form-select>' +
@@ -115,9 +119,9 @@ function setChosenAccount() {
   console.log('Smtj')
 }
 
-function addMcaLabel() {
+function addRevDescr() {
   var textMci = window.getSelection().toString()
-  $('#advLabel').val(textMci)
+  $('#revenue-label').val(textMci)
 }
 
 
