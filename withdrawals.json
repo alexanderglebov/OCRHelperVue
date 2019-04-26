@@ -1,0 +1,4166 @@
+[
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 0,
+    "date" : "0019-01-03",
+    "descr" : "test",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 1,
+    "date" : "0019-01-17",
+    "descr" : "Some",
+    "amount" : "-467",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 2,
+    "date" : "0019-01-18",
+    "descr" : "",
+    "amount" : "-127.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 3,
+    "date" : "0019-01-29",
+    "descr" : "",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 4,
+    "date" : "0019-01-03",
+    "descr" : "",
+    "amount" : "-494.04",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 5,
+    "date" : "0019-01-15",
+    "descr" : "",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 6,
+    "date" : "0019-01-03",
+    "descr" : "",
+    "amount" : "-500",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 7,
+    "date" : "0019-01-03",
+    "descr" : "",
+    "amount" : "-511",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 8,
+    "date" : "0019-01-24",
+    "descr" : "",
+    "amount" : "-4.88",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 9,
+    "date" : "0019-01-07",
+    "descr" : "",
+    "amount" : "-36",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 10,
+    "date" : "0019-01-07",
+    "descr" : "",
+    "amount" : "-4704",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 11,
+    "date" : "0019-01-28",
+    "descr" : "",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 12,
+    "date" : "0019-01-03",
+    "descr" : "",
+    "amount" : "-500",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 13,
+    "date" : "0019-01-25",
+    "descr" : "",
+    "amount" : "-1148.58",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 62,
+    "date" : "0019-01-01",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 12/31 PURCH 2443106836590012133190 ALASKA AIR 0277235524785 SEATTLE WA",
+    "amount" : "-236.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 63,
+    "date" : "0019-01-01",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 12/31 PURCH 2443106836590012933190 ALASKA AIR 0277235524786 SEATTLE WA",
+    "amount" : "-236.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 64,
+    "date" : "0019-01-01",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 12/31 PURCH 2471705836590012687001 DELTA AIR 0067235518614 BELLEVUE WA",
+    "amount" : "-195.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 65,
+    "date" : "0019-01-01",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 12/31 PURCH 2471705836590012887001 DELTA AIR 0067235518613 BELLEVUE WA",
+    "amount" : "-195.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 66,
+    "date" : "0019-01-02",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD ADVANCE 01/02 ADV 7443106900290022502669 ADOBE *ACROPRO SUBS 800-443-8158 CA",
+    "amount" : "-14.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 67,
+    "date" : "0019-01-02",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/02 PURCH 2449215900290022663754 VIRTRU HTTPSWWW.VIRT DC",
+    "amount" : "-1099",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 68,
+    "date" : "0019-01-02",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 69,
+    "date" : "0019-01-02",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-273.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 70,
+    "date" : "0019-01-02",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/02 PURCH 2405523900290032008372 GOOGLE *GSUITE FULLSPECTR 650-253-0000 CA",
+    "amount" : "-60.15",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 71,
+    "date" : "0019-01-03",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD ADVANCE 01/02 ADV 7449398900290022408303 AT&T*BILL PAYMENT 800-331 -0500 TX",
+    "amount" : "-417.14",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 72,
+    "date" : "0019-01-03",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/03 PURCH 2432300900390032103495 ALASKA'S BEST WATER & CO 907-522-1679 AK",
+    "amount" : "-52",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 73,
+    "date" : "0019-01-03",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/03 PURCH 2444500900390032330042 4TE*GUARDIAN SECURITY SYS 907-274-5275 AK",
+    "amount" : "-62",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 74,
+    "date" : "0019-01-03",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/03 PURCH 2449215900390032489442 SECUREVIDEO.COM 8885402829 CA",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 75,
+    "date" : "0019-01-03",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 76,
+    "date" : "0019-01-03",
+    "descr" : "WITHDRAWAL NSF FEE INTUIT PAYROLL S",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 77,
+    "date" : "0019-01-03",
+    "descr" : "WITHDRAWAL NSF FEE 217 IN THE AMOUNT $511.00.",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 78,
+    "date" : "0019-01-04",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/03 PURCH 2475542900390042316004 ANCHORAGE GYMNASTIC ASSOC ANCHORAGE AK",
+    "amount" : "-95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 79,
+    "date" : "0019-01-04",
+    "descr" : "WITHDRAWAL POS #900400501154 FRED-MEYER #0011 FRED MEYER 011 ANCHORAGE AK",
+    "amount" : "-46.01",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 80,
+    "date" : "0019-01-04",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/03 PURCH 2429910900390042700047 TESORO 60015 ANCHORAGE AK",
+    "amount" : "-46.97",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 81,
+    "date" : "0019-01-04",
+    "descr" : "WITHDRAWAL ACH INTUIT PAYROLL S TYPE: QUICKBOOKS CO: INTUIT PAYROLL S DATA: ERVICES 823406969",
+    "amount" : "-3902.78",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 82,
+    "date" : "0019-01-04",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 83,
+    "date" : "0019-01-04",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 01/04 PURCH 2469216900490042010028 SFAX 877-493-1015 CA",
+    "amount" : "-114.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 84,
+    "date" : "0019-01-04",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 85,
+    "date" : "0019-01-04",
+    "descr" : "WITHDRAWAL ACH IRS TYPE: USATAXPYMT CO: IRS",
+    "amount" : "-1228.44",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 86,
+    "date" : "0019-01-06",
+    "descr" : "WITHDRAWAL POS #900710600599 WAL WAL-MART SUPER 120352 2071 WAL-SAMS ANCHORAGE (S) AK",
+    "amount" : "-101.34",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 87,
+    "date" : "0019-01-07",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD ADVANCE 01/06 ADV 7449215900690062863774 MCAFEE*HSS SAFECONNECT HTTPSMCAFEE.H CA",
+    "amount" : "-7.99",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 88,
+    "date" : "0019-01-07",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-800",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 89,
+    "date" : "0019-01-07",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 90,
+    "date" : "0019-01-07",
+    "descr" : "WITHDRAWAL ACH PINNACLE BANK TYPE: ACH ENTRY DATA: 800-264-3613 CO: PINNACLE BANK",
+    "amount" : "-347.42",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 91,
+    "date" : "0019-01-07",
+    "descr" : "WITHDRAWAL NSF FEE 218 IN THE AMOUNT $4,704.00.",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 92,
+    "date" : "0019-01-08",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/07 PURCH 2471705900790082116008 AK DEPT OF COMMERCE JNU 907-4651071 AK",
+    "amount" : "-50",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 93,
+    "date" : "0019-01-08",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 94,
+    "date" : "0019-01-08",
+    "descr" : "WITHDRAWAL POS #900818140666 LOWE'S #289 ANCHORAGE AK",
+    "amount" : "-106.85",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 95,
+    "date" : "0019-01-08",
+    "descr" : "WITHDRAWAL POS #010708745511 MICHAELS.COM IRVING TX",
+    "amount" : "-51.89",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 96,
+    "date" : "0019-01-08",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 97,
+    "date" : "0019-01-08",
+    "descr" : "WITHDRAWAL NSF FEE BILL.COM",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 98,
+    "date" : "0019-01-09",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 99,
+    "date" : "0019-01-09",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/08 PURCH 2442733900890092971002 NATURAL PANTRY INC. ANCHORAGE AK",
+    "amount" : "-13.57",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 100,
+    "date" : "0019-01-09",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/08 PURCH 2442733900890092271002 NATURAL PANTRY INC. ANCHORAGE AK",
+    "amount" : "-6.88",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 101,
+    "date" : "0019-01-09",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 102,
+    "date" : "0019-01-10",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-150",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 103,
+    "date" : "0019-01-10",
+    "descr" : "WITHDRAWAL POS #901021439745 MICHAELS STORES 5806 8571 OLD SEWARD HWY ANCHORAGEAK",
+    "amount" : "-6.29",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 104,
+    "date" : "0019-01-10",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 105,
+    "date" : "0019-01-11",
+    "descr" : "WITHDRAWAL WIRE OUT 20190110014500",
+    "amount" : "-2742.58",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 106,
+    "date" : "0019-01-11",
+    "descr" : "WITHDRAWAL WIRE FEE",
+    "amount" : "-20",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 107,
+    "date" : "0019-01-11",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 108,
+    "date" : "0019-01-11",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 109,
+    "date" : "0019-01-11",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-3914.97",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 110,
+    "date" : "0019-01-12",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD ADVANCE 01/11 ADV 7449215901190112563794 VELLUM LLC VELLUMLLC.COM AK",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 111,
+    "date" : "0019-01-12",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE",
+    "amount" : "-231.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 112,
+    "date" : "0019-01-14",
+    "descr" : "01/12 PURCH 2469216901290122010052 MAT-SU VALLEY FRONTIER 907-352-2250 AK WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-700",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 113,
+    "date" : "0019-01-14",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/15 PURCH 2420429901590152400000 FACEBK YSSUTJ62K2 650-5434800 CA",
+    "amount" : "-50",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 114,
+    "date" : "0019-01-14",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 115,
+    "date" : "0019-01-15",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-500",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 116,
+    "date" : "0019-01-15",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/15 PURCH 2424760901590152820012 THERAPYAPPOINTMENTCOM 800-242-2127 NC",
+    "amount" : "-10",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 117,
+    "date" : "0019-01-15",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 01/15 PURCH 2420429901590152700023 MICROSOFT 'OFFICE 365 MSBILL.INFO WA",
+    "amount" : "-99.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 118,
+    "date" : "0019-01-15",
+    "descr" : "WITHDRAWAL ACH GCI BILLING TYPE: GCI BLNG CO: GCI BILLING",
+    "amount" : "-154.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 119,
+    "date" : "0019-01-15",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 120,
+    "date" : "0019-01-15",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-194.65",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 121,
+    "date" : "0019-01-16",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/15 PURCH 2449398901590162520704 ADVANCEDMD, INC 801-984-9500 UT",
+    "amount" : "-1149.59",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 122,
+    "date" : "0019-01-16",
+    "descr" : "WITHDRAWAL POS #87545500 WAL-MART #2071 8900 OLD SEWARD HWY ANCHORAGE AK",
+    "amount" : "-9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 123,
+    "date" : "0019-01-16",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 124,
+    "date" : "0019-01-17",
+    "descr" : "WITHDRAWAL POS #901700022161 OFFICE DEPOT 00 201 E. TUDOR RD ANCHORAGE AK",
+    "amount" : "-138.14",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 125,
+    "date" : "0019-01-17",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/16 PURCH 2461043901690172000400 HENRY SCHEIN* 800-472-4346 NY",
+    "amount" : "-222.39",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 126,
+    "date" : "0019-01-17",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 127,
+    "date" : "0019-01-17",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-206",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 128,
+    "date" : "0019-01-17",
+    "descr" : "WITHDRAWAL ACH INTUIT PAYROLL S TYPE: QUICKBOOKS CO: INTUIT PAYROLL S DATA: ERVICES 823406969",
+    "amount" : "-7677.61",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 129,
+    "date" : "0019-01-17",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/18 PURCH 2469216901890182010063 PRACTICE FUSION 415-346-7700 CA",
+    "amount" : "-297",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 130,
+    "date" : "0019-01-18",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-1200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 131,
+    "date" : "0019-01-18",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 132,
+    "date" : "0019-01-18",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 133,
+    "date" : "0019-01-18",
+    "descr" : "WITHDRAWAL ACH DELL TYPE: ONLINE PMT CO: DELL",
+    "amount" : "-160",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 134,
+    "date" : "0019-01-18",
+    "descr" : "WITHDRAWAL ACH IRS TYPE: USATAXPYMT CO: IRS",
+    "amount" : "-2502.36",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 135,
+    "date" : "0019-01-19",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/18 PURCH 2421073901890192020668 NASW202-408-8600 DC",
+    "amount" : "-125",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 136,
+    "date" : "0019-01-20",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 01/20 PURCH 2469216902090202610014 VISTAPR'VISTAPRINT.COM 866-8936743 MA",
+    "amount" : "-24.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 137,
+    "date" : "0019-01-20",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 01/20 PURCH 2469216902090202210021 VISTAPR'VISTAPRINT.COM 866-8936743 MA",
+    "amount" : "-20",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 138,
+    "date" : "0019-01-21",
+    "descr" : "WITHDRAWAL POS #902100369115 WM SUPERCENTER # WAL-MART SUPER CENTER ANCHORAGE (S) AK",
+    "amount" : "-14.58",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 139,
+    "date" : "0019-01-21",
+    "descr" : "WITHDRAWAL POS #012203466116 GOOGLE 'ADS3074720698 MOUNTAIN VIEW CA",
+    "amount" : "-44.15",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 140,
+    "date" : "0019-01-22",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/22 PURCH 2469216902290222810090 STAMPS.COM 855-608-2677 CA",
+    "amount" : "-8.38",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 141,
+    "date" : "0019-01-22",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 142,
+    "date" : "0019-01-22",
+    "descr" : "WITHDRAWAL ACH RULIEN & ASSOCIA TYPE: BILL IMPND DATA: CSI ACH BUSINESS CO: RULIEN & ASSOCIA",
+    "amount" : "-300",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 143,
+    "date" : "0019-01-23",
+    "descr" : "WITHDRAWAL POS #902300036221 OFFICE DEPOT 00 201 E. TUDOR RD ANCHORAGE AK",
+    "amount" : "-22.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 144,
+    "date" : "0019-01-23",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-950",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 145,
+    "date" : "0019-01-23",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 146,
+    "date" : "0019-01-24",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 147,
+    "date" : "0019-01-24",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 148,
+    "date" : "0019-01-24",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/24 PURCH 2469216902490252310049 MICHAELS STORES 5806 ANCHORAGE AK",
+    "amount" : "-72",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 149,
+    "date" : "0019-01-24",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/24 PURCH 2443106902490252440075 BAGOYS FLORIST 907-522-1922 AK",
+    "amount" : "-57",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 150,
+    "date" : "0019-01-24",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/24 PURCH 2443106902490252240075 BAGOYS FLORIST 907-522-1922 AK",
+    "amount" : "-74.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 151,
+    "date" : "0019-01-25",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/24 PURCH 2449215902490242163745ANPA.ENPNETWORK.COM 9072226847 AK",
+    "amount" : "-125",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 152,
+    "date" : "0019-01-25",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 153,
+    "date" : "0019-01-25",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-273.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 154,
+    "date" : "0019-01-26",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/25 PURCH 2471705902590262764026 LINNY PACILLO PARKING ANCHORAGE AK",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 155,
+    "date" : "0019-01-26",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/26 PURCH 2401339902690262700352 WILLIWAW ANCHORAGE AK",
+    "amount" : "-18",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 156,
+    "date" : "0019-01-27",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-600",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 157,
+    "date" : "0019-01-27",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/27 PURCH 2449398902790272328685 GCI BILLING 800-800-4800 AK",
+    "amount" : "-144.57",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 158,
+    "date" : "0019-01-27",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/26 PURCH 2449813902690272203009 IDENTITY INC ANCHORAGE AK",
+    "amount" : "-225",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 159,
+    "date" : "0019-01-28",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-450",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 160,
+    "date" : "0019-01-28",
+    "descr" : "WITHDRAWAL POS #30502200 WAL-MART #2071 8900 OLD SEWARD HWY ANCHORAGE AK",
+    "amount" : "-21.39",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 161,
+    "date" : "0019-01-28",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 162,
+    "date" : "0019-01-29",
+    "descr" : "WITHDRAWAL POS #902900029281 OFFICE DEPOT 00 201 E. TUDOR RD ANCHORAGE",
+    "amount" : "-182.47",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 163,
+    "date" : "0019-01-29",
+    "descr" : "WITHDRAWAL POS #902900621241 WM SUPERCENTER # WAL-MART SUPER CENTER ANCHORAGEAK",
+    "amount" : "-12.28",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 164,
+    "date" : "0019-01-29",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/29 PURCH 2469216902990292010011 NESPRESSO USA 888-637-7737 NY",
+    "amount" : "-80",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 165,
+    "date" : "0019-01-29",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 166,
+    "date" : "0019-01-29",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 167,
+    "date" : "0019-01-29",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-1817.3",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 168,
+    "date" : "0019-01-29",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-3771.87",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 169,
+    "date" : "0019-01-30",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/29 PURCH 2475542902990302213030 VRC COMPANIES LLC MEMPHIS TN",
+    "amount" : "-10",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 170,
+    "date" : "0019-01-30",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/29 PURCH 2421073902990302020069 NASW ONLINE WASHINGTON DC",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 171,
+    "date" : "0019-01-30",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/29 PURCH 2421073902990302220069 NASW ONLINE WASHINGTON DC",
+    "amount" : "-200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 172,
+    "date" : "0019-01-30",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 173,
+    "date" : "0019-01-30",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 174,
+    "date" : "0019-01-31",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 01/30 PURCH 2443654903090312301022 RINGCENTRAL, INC 650-4724100 CA",
+    "amount" : "-179.12",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 175,
+    "date" : "0019-01-31",
+    "descr" : "WITHDRAWAL ACH IRS TYPE: USATAXPYMT CO: IRS",
+    "amount" : "-19.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 176,
+    "date" : "0019-01-31",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 177,
+    "date" : "0019-01-31",
+    "descr" : "WITHDRAWAL ACH DOL TYPE: UITAX DATA: UITAX CO: DOL",
+    "amount" : "-489.01",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 178,
+    "date" : "0019-01-31",
+    "descr" : "WITHDRAWAL NSF FEE INTUIT PAYROLL S",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e0",
+    "seqNum" : 179,
+    "date" : "0019-01-31",
+    "descr" : "WITHDRAWAL MAINTENANCE FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 0,
+    "date" : "0019-02-04",
+    "descr" : "",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 1,
+    "date" : "0019-02-06",
+    "descr" : "",
+    "amount" : "-200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 2,
+    "date" : "0019-02-19",
+    "descr" : "",
+    "amount" : "-78.7",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 3,
+    "date" : "0019-02-14",
+    "descr" : "",
+    "amount" : "-4000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 4,
+    "date" : "0019-02-06",
+    "descr" : "",
+    "amount" : "-4740",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 5,
+    "date" : "0019-02-25",
+    "descr" : "",
+    "amount" : "-588",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 6,
+    "date" : "0019-02-14",
+    "descr" : "",
+    "amount" : "-197.51",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 7,
+    "date" : "0019-02-22",
+    "descr" : "",
+    "amount" : "-4.88",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 8,
+    "date" : "0019-02-26",
+    "descr" : "",
+    "amount" : "-245.47",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 9,
+    "date" : "0019-02-14",
+    "descr" : "",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 10,
+    "date" : "0019-02-26",
+    "descr" : "",
+    "amount" : "-315.98",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 11,
+    "date" : "0019-02-27",
+    "descr" : "",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 12,
+    "date" : "0019-02-19",
+    "descr" : "",
+    "amount" : "-1000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 57,
+    "date" : "0019-02-01",
+    "descr" : "WITHDRAWAL POS #020104020868 GOOGLE *GSUITE.FULLSPECTR MOUNTAIN VIEW CA",
+    "amount" : "-65",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 58,
+    "date" : "0019-02-01",
+    "descr" : "WITHDRAWAL ACH INTUIT PAYROLL S TYPE: QUICKBOOKS CO: INTUIT PAYROLL S DATA: ERVICES 823406969",
+    "amount" : "-8261.85",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 59,
+    "date" : "0019-02-01",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-2700",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 60,
+    "date" : "0019-02-01",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 61,
+    "date" : "0019-02-01",
+    "descr" : "WITHDRAWAL ACH IRS TYPE: USATAXPYMT CO: IRS",
+    "amount" : "-2641.52",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 62,
+    "date" : "0019-02-02",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/01 PURCH 2471705903290332227033 AK DEPT OF COMMERCE JNU 907-4651071 AK",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 63,
+    "date" : "0019-02-02",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/02 PURCH 2432300903390332003414 ALASKA'S BEST WATER & CO 907-522-1679 AK",
+    "amount" : "-116.75",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 64,
+    "date" : "0019-02-02",
+    "descr" : "WITHDRAWAL POS #903300038881 OFFICE DEPOT 00 201 E. 6TH AVE ANCHORAGE AK",
+    "amount" : "-22.75",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 65,
+    "date" : "0019-02-02",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/02 PURCH 2444500903390332730045 4TE*GUARDIAN SECURITY SYS 907-274-5275 AK",
+    "amount" : "-62",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 66,
+    "date" : "0019-02-02",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/03 PURCH 2469216903490342010052 ENCHANTING TRAVELS 303-800-5844 CO",
+    "amount" : "-1298",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 67,
+    "date" : "0019-02-03",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD ADVANCE 02/02 ADV 7449398903390332108302 AT&T*BILL PAYMENT 800-331 -0500 TX",
+    "amount" : "-410.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 68,
+    "date" : "0019-02-03",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD ADVANCE 02/03 ADV 7443106903490342202664 ADOBE *ACROPRO SUBS 800-443-8158 CA",
+    "amount" : "-14.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 69,
+    "date" : "0019-02-04",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 70,
+    "date" : "0019-02-04",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/02 PURCH 2490604903390352904170 WYNDHAM GDN LAKE BUENA LAKE BUENA VI FL",
+    "amount" : "-826.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 71,
+    "date" : "0019-02-04",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-400",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 72,
+    "date" : "0019-02-04",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-159.35",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 73,
+    "date" : "0019-02-05",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/04 PURCH 2449215903590362189455 SECUREVIDEO.COM 8885402829 CA",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 74,
+    "date" : "0019-02-05",
+    "descr" : "WITHDRAWAL POS #903600012781 OFFICE DEPOT 00 201 E. TUDOR RD ANCHORAGE AK",
+    "amount" : "-89.27",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 75,
+    "date" : "0019-02-05",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 76,
+    "date" : "0019-02-05",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 02/05 PURCH 2469216903690362210012 SFAX 877-493-1015 CA",
+    "amount" : "-108.4",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 77,
+    "date" : "0019-02-05",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 78,
+    "date" : "0019-02-05",
+    "descr" : "WITHDRAWAL ACH PINNACLE BANK TYPE: ACH ENTRY DATA: 800-264-3613 CO: PINNACLE BANK",
+    "amount" : "-347.42",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 79,
+    "date" : "0019-02-06",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-3200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 80,
+    "date" : "0019-02-06",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 81,
+    "date" : "0019-02-07",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/07 PURCH 2469216903890382910004 MAT-SU VALLEY FRONTIER 907-352-2250 AK",
+    "amount" : "-231.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 82,
+    "date" : "0019-02-07",
+    "descr" : "WITHDRAWAL POS #13532300 SHELL SERVICE STATION EAGLE RIVER AK",
+    "amount" : "-42.52",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 83,
+    "date" : "0019-02-07",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 84,
+    "date" : "0019-02-07",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-2934",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 85,
+    "date" : "0019-02-08",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/08 PURCH 2463269903990392750058 MOOSES TOOTH ANCHORAGE AK",
+    "amount" : "-44.2",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 86,
+    "date" : "0019-02-08",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-600",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 87,
+    "date" : "0019-02-08",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/08 PURCH 2469216903990392410086 IN \"CENTERLINK INC 954-7656024 FL",
+    "amount" : "-250",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 88,
+    "date" : "0019-02-08",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 89,
+    "date" : "0019-02-11",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 90,
+    "date" : "0019-02-12",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/11 PURCH 2475542904290432573043 CBC RENTAL AND SUPPLY LLC SOLDOTNA AK",
+    "amount" : "-675",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 91,
+    "date" : "0019-02-12",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/11 PURCH 2449215904290432763722 WWW.IDENTITYINC.ORG 19079294528 AK",
+    "amount" : "-300",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 92,
+    "date" : "0019-02-12",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/11 PURCH 2449215904290432563722 WWW.IDENTITYINC.ORG 19079294528 AK",
+    "amount" : "-200",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 93,
+    "date" : "0019-02-12",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 94,
+    "date" : "0019-02-13",
+    "descr" : "WITHDRAWAL POS #5PX7BZIOXSX7 AMAZON.COM*MI37G4EL1 SEATTLE WA",
+    "amount" : "-59.94",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 95,
+    "date" : "0019-02-13",
+    "descr" : "WITHDRAWAL POS #904486762096 WAL WAL-MART SUPER 341151 2070 WAL-SAMS ANCHORAGEAK",
+    "amount" : "-39.45",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 96,
+    "date" : "0019-02-13",
+    "descr" : "WITHDRAWAL POS #904400048021 OFFICE DEPOT 00 201 E. TUDOR RD ANCHORAGE AK",
+    "amount" : "-65.96",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 97,
+    "date" : "0019-02-13",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/13 PURCH 2469216904490442710023 LOWES #00289* ANCHORAGE AK",
+    "amount" : "-2.56",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 98,
+    "date" : "0019-02-13",
+    "descr" : "WITHDRAWAL POS #904503256133 TARGET T-2372 150 W100TH ANCHORAGE AK",
+    "amount" : "-100.09",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 99,
+    "date" : "0019-02-13",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 100,
+    "date" : "0019-02-14",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/14 PURCH 2405522904590452060270 ALASKA PACIFIC UNIVERSIT 907-564-8350 AK",
+    "amount" : "-425",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 101,
+    "date" : "0019-02-14",
+    "descr" : "WITHDRAWAL POS #904518491601 LOWE'S #289 ANCHORAGE AK",
+    "amount" : "-63.93",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 102,
+    "date" : "0019-02-14",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-400",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 103,
+    "date" : "0019-02-14",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/12 PURCH 2461043904390452800400 HENRY SCHEIN* 800-472-4346 NY",
+    "amount" : "-125.24",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 104,
+    "date" : "0019-02-14",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 105,
+    "date" : "0019-02-14",
+    "descr" : "WITHDRAWAL ACH INTUIT PAYROLL S TYPE: QUICKBOOKS CO: INTUIT PAYROLL S DATA: ERVICES 823406969",
+    "amount" : "-6325.72",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 106,
+    "date" : "0019-02-15",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 107,
+    "date" : "0019-02-15",
+    "descr" : "WITHDRAWAL POS #904623924272 OFFICE DEPOT 00 201 E. TU ANCHORAGE AK",
+    "amount" : "-1.92",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 108,
+    "date" : "0019-02-15",
+    "descr" : "WITHDRAWAL POS #904619863616 LOWE'S #289 333 EAST TUDOR ROAD ANCHORAGE AK",
+    "amount" : "-2.56",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 109,
+    "date" : "0019-02-15",
+    "descr" : "WITHDRAWAL ACH GCI BILLING TYPE: GCI BLNG CO: GCI BILLING",
+    "amount" : "-144.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 110,
+    "date" : "0019-02-15",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 111,
+    "date" : "0019-02-15",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-506",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 112,
+    "date" : "0019-02-15",
+    "descr" : "WITHDRAWAL ACH IRS TYPE: USATAXPYMT CO: IRS",
+    "amount" : "-2108.44",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 113,
+    "date" : "0019-02-16",
+    "descr" : "WITHDRAWAL POS #3GZCIGYRMIOS AMAZON.COM*MI5A55LG2 SEATTLE WA",
+    "amount" : "-147.17",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 114,
+    "date" : "0019-02-16",
+    "descr" : "WITHDRAWAL POS #904715836441 LOWE'S #289 333 EAST TUDOR ROAD ANCHORAGE AK",
+    "amount" : "-1.45",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 115,
+    "date" : "0019-02-16",
+    "descr" : "WITHDRAWAL POS #904716558421 LOWE'S #289 333 EAST TUDOR ROAD ANCHORAGE AK",
+    "amount" : "-1.61",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 116,
+    "date" : "0019-02-17",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/18 PURCH 2469216904990492910065 BARNES&NOBLE.COM-BN 800-843-2665 NY",
+    "amount" : "-51.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 117,
+    "date" : "0019-02-18",
+    "descr" : "WITHDRAWAL POS #904900067701 OFFICE DEPOT 00 201 E. TUDOR RD ANCHORAGE AK",
+    "amount" : "-30.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 118,
+    "date" : "0019-02-18",
+    "descr" : "WITHDRAWAL POS #904920585811 LOWE'S #1633 ANCHORAGE AK",
+    "amount" : "-26.41",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 119,
+    "date" : "0019-02-19",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/19 PURCH 2469216905090502110045 BARNES&NOBLE.COM-BN 800-843-2665 NY",
+    "amount" : "-31.04",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 120,
+    "date" : "0019-02-19",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-300",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 121,
+    "date" : "0019-02-19",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-475",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 122,
+    "date" : "0019-02-19",
+    "descr" : "WITHDRAWAL ACH DELL TYPE: ONLINE PMT CO: DELL",
+    "amount" : "-160",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 123,
+    "date" : "0019-02-19",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 124,
+    "date" : "0019-02-20",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-115",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 125,
+    "date" : "0019-02-20",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 126,
+    "date" : "0019-02-20",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-3793.36",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 127,
+    "date" : "0019-02-21",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 02/21 PURCH 2469216905290522510098 STAMPS.COM 855-608-2677 CA",
+    "amount" : "-17.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 128,
+    "date" : "0019-02-21",
+    "descr" : "WITHDRAWAL POS #905200035381 OFFICE MAX/OFFI 8701 OLD SEWARD HWY ANCHORAGEAK",
+    "amount" : "-50.67",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 129,
+    "date" : "0019-02-21",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/21 PURCH 2427539905290522090001 LANGUAGE LINE, INC. 800-7526096 CA",
+    "amount" : "-316",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 130,
+    "date" : "0019-02-21",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 131,
+    "date" : "0019-02-21",
+    "descr" : "WITHDRAWAL ACH RULIEN & ASSOCIA TYPE: BILL IMPND DATA: CSI ACH BUSINESS CO: RULIEN & ASSOCIA",
+    "amount" : "-300",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 132,
+    "date" : "0019-02-22",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-1525",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 133,
+    "date" : "0019-02-22",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 134,
+    "date" : "0019-02-22",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-3752.6",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 135,
+    "date" : "0019-02-23",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/22 PURCH 2443105905390542483800 HOLIDAY STATIONS 0639 ANCHORAGE AK",
+    "amount" : "-17.34",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 136,
+    "date" : "0019-02-25",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-175",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 137,
+    "date" : "0019-02-25",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 138,
+    "date" : "0019-02-25",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-689.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 139,
+    "date" : "0019-02-26",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/25 PURCH 2475542905690572413057 VRC COMPANIES LLC MEMPHIS TN",
+    "amount" : "-10",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 140,
+    "date" : "0019-02-26",
+    "descr" : "WITHDRAWAL POS #34702900 NATURAL PANTRY INC. 3680 BARROW STREET ANCHORAGEAK",
+    "amount" : "-28.85",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 141,
+    "date" : "0019-02-26",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 142,
+    "date" : "0019-02-27",
+    "descr" : "CO: RELIANT FUNDING WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-470",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 143,
+    "date" : "0019-02-27",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 144,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/27 PURCH 2449398905890592420704 ADVANCEDMD, INC 801-984-9500 UT",
+    "amount" : "-1118.23",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 145,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/27 PURCH 2449215905890592463791 VELLUM LLC 9076028360 AK",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 146,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL DEBIT CARD ADVANCE 02/28 ADV 7469216905990592210044 http://WWW.GOGOAIR.COM 877-350-0038 IL",
+    "amount" : "-4.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 147,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL DEBIT CARD ADVANCE 02/28 ADV 7469216905990592810044 http://WWW.GOGOAIR.COM 877-350-0038 IL",
+    "amount" : "-16.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 148,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-115",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 149,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 150,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL NSF FEE INTUIT PAYROLL S",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e1",
+    "seqNum" : 151,
+    "date" : "0019-02-28",
+    "descr" : "WITHDRAWAL MAINTENANCE FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 0,
+    "date" : "0019-03-04",
+    "descr" : "",
+    "amount" : "-76.45",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 1,
+    "date" : "0019-03-26",
+    "descr" : "",
+    "amount" : "-509.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 2,
+    "date" : "0019-03-28",
+    "descr" : "",
+    "amount" : "-4.88",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 3,
+    "date" : "0019-03-12",
+    "descr" : "",
+    "amount" : "-4750",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 4,
+    "date" : "0019-03-27",
+    "descr" : "",
+    "amount" : "-823.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 5,
+    "date" : "0019-03-27",
+    "descr" : "",
+    "amount" : "-15",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 6,
+    "date" : "0019-03-18",
+    "descr" : "",
+    "amount" : "-1500",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 51,
+    "date" : "0019-03-01",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/28 PURCH 2443106905990602340028 ALASKA AIR IN FLIGHT SEATAC WA",
+    "amount" : "-14.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 52,
+    "date" : "0019-03-01",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 02/28 PURCH 2407314905990602990001 TAILWIND JUNEAU JUNEAU AK",
+    "amount" : "-31.11",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 53,
+    "date" : "0019-03-01",
+    "descr" : "WITHDRAWAL ACH INTUIT PAYROLL S TYPE: QUICKBOOKS CO: INTUIT PAYROLL S DATA: ERVICES 823406969",
+    "amount" : "-8792.27",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 54,
+    "date" : "0019-03-01",
+    "descr" : "WITHDRAWAL POS#906101459144ANGERMANS INC WRANGELL AK",
+    "amount" : "-145.36",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 55,
+    "date" : "0019-03-01",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 56,
+    "date" : "0019-03-01",
+    "descr" : "WITHDRAWAL ACH IRS TYPE: USATAXPYMT CO: IRS",
+    "amount" : "-2723.92",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 57,
+    "date" : "0019-03-03",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/03 PURCH 2469216906290622810035 SQ \"THE CABIN CAFE WRANGELL AK",
+    "amount" : "-36.18",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 58,
+    "date" : "0019-03-03",
+    "descr" : "WITHDRAWAL POS #030308869837 GOOGLE *GSUITE.FULLSPECTR MOUNTAIN VIEW CA",
+    "amount" : "-65",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 59,
+    "date" : "0019-03-03",
+    "descr" : "WITHDRAWAL DEBIT CARD ADVANCE 03/03 ADV 7469216906290622410048 http://WWW.GOGOAIR.COM 877-350-0038 IL",
+    "amount" : "-4.95",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 60,
+    "date" : "0019-03-03",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/04 PURCH 2469216906390632010057 CITI PROG DIV OF BRANY 888-529-5929 NY",
+    "amount" : "-129",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 61,
+    "date" : "0019-03-03",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/04 PURCH 2469216906390632410057 CITI PROG DIV OF BRANY 888-529-5929 NY",
+    "amount" : "-49",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 62,
+    "date" : "0019-03-03",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-250",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 63,
+    "date" : "0019-03-04",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 03/03 PURCH 2443654906290632701028 RINGCENTRAL, INC 650-4724100 CA",
+    "amount" : "-179.24",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 64,
+    "date" : "0019-03-04",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/03 PURCH 2443106906290632840028 ALASKA AIR IN FLIGHT SEATAC WA",
+    "amount" : "-6",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 65,
+    "date" : "0019-03-04",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/04 PURCH 2463269906390632250054 MOOSES TOOTH ANCHORAGE AK",
+    "amount" : "-38.15",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 66,
+    "date" : "0019-03-04",
+    "descr" : "WITHDRAWAL POS #906300027301 OFFICE MAX/OFFI 8701 OLD SEWARD HWY ANCHORAGEAK",
+    "amount" : "-110",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 67,
+    "date" : "0019-03-04",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-300",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 68,
+    "date" : "0019-03-04",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/04 PURCH 2469216906390632710099 VISTAPR*VISTAPRINT.COM 866-8936743 MA",
+    "amount" : "-94.67",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 69,
+    "date" : "0019-03-04",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 70,
+    "date" : "0019-03-04",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/04 PURCH 2438894906390632263011 CHECKER CAB ANCHORAGE AK",
+    "amount" : "-15.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 71,
+    "date" : "0019-03-05",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 03/05 PURCH 2469216906490642410044 APL*ITUNES.COM/BILL 866-712-7753 CA",
+    "amount" : "-14.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 72,
+    "date" : "0019-03-05",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 03/05 PURCH 2469216906490642810044 APL*ITUNES.COM/BILL 866-712-7753 CA",
+    "amount" : "-0.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 73,
+    "date" : "0019-03-05",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-400",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 74,
+    "date" : "0019-03-05",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-115",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 75,
+    "date" : "0019-03-05",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 76,
+    "date" : "0019-03-05",
+    "descr" : "WITHDRAWAL ACH PINNACLE BANK TYPE: ACH ENTRY DATA: 800-264-3613 CO: PINNACLE BANK",
+    "amount" : "-347.42",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 77,
+    "date" : "0019-03-05",
+    "descr" : "WITHDRAWAL NSF FEE 191 IN THE AMOUNT $4,740.00.",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 78,
+    "date" : "0019-03-06",
+    "descr" : "WITHDRAWAL DEBIT CARD ADVANCE 03/04 ADV 7449398906390642079943 AT&T*BILL PAYMENT WWW.ATT.COM TX",
+    "amount" : "-437.1",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 79,
+    "date" : "0019-03-06",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/06 PURCH 2469216906590652910017 SQ 'AFTERSHOCK ESPRESSO L ANCHORAGE AK",
+    "amount" : "-15.75",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 80,
+    "date" : "0019-03-06",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 81,
+    "date" : "0019-03-06",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 82,
+    "date" : "0019-03-07",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/07 PURCH 2469216906690662410057 MAT-SU VALLEY FRONTIER 907-352-2250 AK",
+    "amount" : "-231.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 83,
+    "date" : "0019-03-07",
+    "descr" : "WITHDRAWAL POS #906600031161 OFFICE MAX/OFFI 8701 OLD SEWARD HWY ANCHORAGEAK",
+    "amount" : "-43.49",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 84,
+    "date" : "0019-03-07",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/07 PURCH 2469216906690662310088 SFAX 877-493-1015 CA",
+    "amount" : "-79.9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 85,
+    "date" : "0019-03-07",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/06 PURCH 2461043906590662500400 HENRY SCHEIN* 800-472-4346 NY",
+    "amount" : "-413.69",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 86,
+    "date" : "0019-03-07",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 87,
+    "date" : "0019-03-08",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/07 PURCH 2449215906690662389472 SECUREVIDEO.COM 8885402829 CA",
+    "amount" : "-35",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 88,
+    "date" : "0019-03-08",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 89,
+    "date" : "0019-03-09",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/09 PURCH 2449215906890682474031 SQ �ALASKA SUGAR RU ANCHORAGE AK",
+    "amount" : "-16.39",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 90,
+    "date" : "0019-03-11",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/10 PURCH 2405522906990702920676 SOUTH RESTAURANT + COFFE ANCHORAGE AK",
+    "amount" : "-54.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 91,
+    "date" : "0019-03-11",
+    "descr" : "WITHDRAWAL POS #907000069942 OFFICE DEPOT 00 201 E. 6TH AVE ANCHORAGE AK",
+    "amount" : "-7.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 92,
+    "date" : "0019-03-11",
+    "descr" : "WITHDRAWAL POS #907103740843 TARGET T-2339 1801 E PARKWASILLA AK",
+    "amount" : "-37.7",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 93,
+    "date" : "0019-03-11",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD ADVANCE 03/11 ADV 7449215907090702963748 VELLUM LLC VELLUMLLC.COM AK",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 94,
+    "date" : "0019-03-11",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 95,
+    "date" : "0019-03-11",
+    "descr" : "WITHDRAWAL ACH ATHENAHEALTH, IN TYPE: RECEIVABLE CO: ATHENAHEALTH, IN DATA: DYNAMICS EFT DEPOSIT",
+    "amount" : "-1225",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 96,
+    "date" : "0019-03-12",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 03/12 PURCH 2469216907190712310048 APL'ITUNES.COM/BILL 866-712-7753 CA",
+    "amount" : "-7.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 97,
+    "date" : "0019-03-12",
+    "descr" : "WITHDRAWAL POS #907119121799 FRED-MEYER #0011 FRED MEY ANCHORAGE AK",
+    "amount" : "-3.98",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 98,
+    "date" : "0019-03-12",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/11 PURCH 2443106907090712689800 COSTCO WHSE #0010 ANCHORAGE AK",
+    "amount" : "-80.19",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 99,
+    "date" : "0019-03-12",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 100,
+    "date" : "0019-03-13",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/13 PURCH 2463269907290722050056 MOOSES TOOTH ANCHORAGE AK",
+    "amount" : "-65.5",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 101,
+    "date" : "0019-03-13",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/12 PURCH 2432303907190722928684 KALADI BROS COFFEE KBC15 ANCHORAGE AK",
+    "amount" : "-10.85",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 102,
+    "date" : "0019-03-13",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/12 PURCH 2432303907190722620089 KALADI BROS COFFEE KBC16 ANCHORAGE AK",
+    "amount" : "-70",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 103,
+    "date" : "0019-03-13",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/13 PURCH 2407105907290722762716 QUICKENLOANS8002519080 000-0000000 Ml",
+    "amount" : "-500",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 104,
+    "date" : "0019-03-13",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 105,
+    "date" : "0019-03-14",
+    "descr" : "WITHDRAWAL POS #907417757905 30 GOODWILL INDUST ANCHORAGE AK",
+    "amount" : "-9.98",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 106,
+    "date" : "0019-03-14",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-258.86",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 107,
+    "date" : "0019-03-14",
+    "descr" : "WITHDRAWAL NSF FEE INTUIT PAYROLL S",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 108,
+    "date" : "0019-03-15",
+    "descr" : "WITHDRAWAL ACH INTUIT PAYROLL S TYPE: QUICKBOOKS CO: INTUIT PAYROLL S DATA: ERVICES 823406969",
+    "amount" : "-7468.76",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 109,
+    "date" : "0019-03-15",
+    "descr" : "WITHDRAWAL ACH SQUARE INC TYPE: 190315P2 DATA: L50252 CO: SQUARE INC",
+    "amount" : "-9",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 110,
+    "date" : "0019-03-15",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 111,
+    "date" : "0019-03-15",
+    "descr" : "WITHDRAWAL ACH GCI BILLING TYPE: GCI BLNG CO: GCI BILLING",
+    "amount" : "-144.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 112,
+    "date" : "0019-03-16",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/15 PURCH 2449398907490752820704 ADVANCEDMD, INC 801-984-9500 UT",
+    "amount" : "-1120.59",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 113,
+    "date" : "0019-03-18",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 10",
+    "amount" : "-2000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 114,
+    "date" : "0019-03-18",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 115,
+    "date" : "0019-03-18",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-676",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 116,
+    "date" : "0019-03-18",
+    "descr" : "WITHDRAWAL NSF FEE IRS",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 117,
+    "date" : "0019-03-19",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/19 PURCH 2469216907890782110089 NESPRESSO USA 888-637-7737 NY",
+    "amount" : "-88",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 118,
+    "date" : "0019-03-19",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 119,
+    "date" : "0019-03-19",
+    "descr" : "WITHDRAWAL ACH DELL TYPE: ONLINE PMT CO: DELL",
+    "amount" : "-160",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 120,
+    "date" : "0019-03-20",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 121,
+    "date" : "0019-03-21",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/20 PURCH 2475542907990802113080 VRC COMPANIES LLC MEMPHIS TN",
+    "amount" : "-10",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 122,
+    "date" : "0019-03-21",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 03/21 PURCH 2469216908090802110073 STAMPS.COM 855-608-2677 CA",
+    "amount" : "-17.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 123,
+    "date" : "0019-03-21",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/20 PURCH 2444574907990802510023 OFFICE DEPOT #557 ANCHORAGE AK",
+    "amount" : "-471.25",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 124,
+    "date" : "0019-03-21",
+    "descr" : "WITHDRAWAL FEE OD PROTECTION TRANSFER FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 125,
+    "date" : "0019-03-21",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 126,
+    "date" : "0019-03-21",
+    "descr" : "WITHDRAWAL ACH RULIEN & ASSOCIA TYPE: BILL IMPND DATA: CSI ACH BUSINESS CO: RULIEN & ASSOCIA",
+    "amount" : "-300",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 127,
+    "date" : "0019-03-22",
+    "descr" : "WITHDRAWAL POS #57686700 WAL-MART #2070 3101 A STREET ANCHORAGE AK",
+    "amount" : "-22.86",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 128,
+    "date" : "0019-03-22",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 129,
+    "date" : "0019-03-23",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/23 PURCH 2469216908290822010099 APL* ITUNES.COM/BILL 866-712-7753 CA",
+    "amount" : "-7.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 130,
+    "date" : "0019-03-25",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/24 PURCH 2439900908390832429500 BEST BUY MHT 00005397 ANCHORAGE AK",
+    "amount" : "-59.99",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 131,
+    "date" : "0019-03-25",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 132,
+    "date" : "0019-03-25",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-2794",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 133,
+    "date" : "0019-03-25",
+    "descr" : "WITHDRAWAL ACH IRS TYPE: USATAXPYMT CO: IRS",
+    "amount" : "-3834.34",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 134,
+    "date" : "0019-03-26",
+    "descr" : "WITHDRAWAL ACH KABBAGE TYPE: PAYMENT CO: KABBAGE",
+    "amount" : "-100",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 135,
+    "date" : "0019-03-26",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 136,
+    "date" : "0019-03-27",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/27 PURCH 2449398908690862628685 GCI BILLING 800-800-4800 AK",
+    "amount" : "-294.04",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 137,
+    "date" : "0019-03-27",
+    "descr" : "WITHDRAWAL POS #908600190590 WM SUPERCENTER # WAL-MART SUPER CENTER ANCHORAGEAK",
+    "amount" : "-14.8",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 138,
+    "date" : "0019-03-27",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 139,
+    "date" : "0019-03-28",
+    "descr" : "CO: RELIANT FUNDING WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 140,
+    "date" : "0019-03-28",
+    "descr" : "WITHDRAWAL ACH BILL.COM TYPE: PAYABLES CO: BILL.COM",
+    "amount" : "-3386.65",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 141,
+    "date" : "0019-03-28",
+    "descr" : "WITHDRAWAL NSF FEE INTUIT PAYROLL S",
+    "amount" : "-25",
+    "isDeducted" : false,
+    "tags" : [
+      "NSF"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 142,
+    "date" : "0019-03-29",
+    "descr" : "WITHDRAWAL ACH INTUIT PAYROLL S TYPE: QUICKBOOKS CO: INTUIT PAYROLL S DATA: ERVICES 823406969",
+    "amount" : "-8320.82",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 143,
+    "date" : "0019-03-29",
+    "descr" : "WITHDRAWAL ACH RELIANT FUNDING TYPE: ADV PYMT DATA: ADV PYMT CO: RELIANT FUNDING",
+    "amount" : "-130",
+    "isDeducted" : false,
+    "tags" : [
+      "WithdrawalAdvance"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 144,
+    "date" : "0019-03-30",
+    "descr" : "WITHDRAWAL DEBIT CARD PURCHASE 03/30 PURCH 2469216908990892410012 APL* ITUNES.COM/BILL 866-712-7753 CA",
+    "amount" : "-9.28",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 145,
+    "date" : "0019-03-31",
+    "descr" : "RECURRING WITHDRAWAL DEBIT CARD PURCHASE 03/30 PURCH 2443654908990902601033 RINGCENTRAL, INC 650-4724100 CA",
+    "amount" : "-179.24",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 146,
+    "date" : "0019-03-31",
+    "descr" : "WITHDRAWAL MAINTENANCE FEE",
+    "amount" : "-5",
+    "isDeducted" : false,
+    "tags" : [
+      "Fee"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 147,
+    "date" : "0019-03-01",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 70",
+    "amount" : "-3000",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 152,
+    "date" : "0019-03-07",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 70",
+    "amount" : "-2042.75",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 154,
+    "date" : "0019-03-21",
+    "descr" : "WITHDRAWAL TRANSFER TO SHARE 70",
+    "amount" : "-32.32",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  },
+  {
+    "docId" : "5cc19de55527812c6459d0e2",
+    "seqNum" : 155,
+    "date" : "0019-03-28",
+    "descr" : "WITHDRAWAL ULTRABRANCH-PC TRANSFER TO SHARE 70",
+    "amount" : "-1967.68",
+    "isDeducted" : false,
+    "tags" : [
+      "GenericWithdrawals"
+    ],
+    "manualFix" : false
+  }
+]

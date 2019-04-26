@@ -28,3 +28,11 @@
 .data-title :first-child {
     margin-top: 20px;
 }
+
+#general-table tr td:first-child {
+    font-size: 12px;
+    width: 8em;
+    min-width: 8em;
+    max-width: 8em;
+    word-break: break-all;
+}

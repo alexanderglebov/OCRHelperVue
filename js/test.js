@@ -40,6 +40,8 @@ new Vue({
           break
         case 'TrueRevenue': this.$refs.revenuesModal.showModal()
           break
+        case 'WithdrawalsCheck': this.$refs.withdrawalsModal.showModal()
+          break
         default: this.$refs.logModal.showModal()
       }
     }
@@ -69,9 +71,9 @@ new Vue({
  // }
 
 function showHeaders(json) {
-  var headers = ['id', {tdAttr: function (_, __, obj) {
+  var headers = ['date', {tdAttr: function (_, __, obj) {
       // console.log(arguments)
-      return { 'data-id': obj.id }
+      return {'data-name': obj.oppoName }
     }, key: 'oppoName', label: 'Opportunity Name', tdClass: 'contextMenu'}]
   for (var processName in json.processes){
     headers.push(processName)
@@ -127,7 +129,7 @@ function getItems(oppos) {
   }
   var items = []
   oppos.reverse().forEach(function (oppo) {
-    var item = {id: oppo.id, oppoName: oppo.oppoName, crButton: {stageName: '', color: ''}, dpButton: {stageName: '', color: ''}}
+    var item = {id: oppo.id, date: normalizeDate(oppo.date), oppoName: oppo.oppoName, crButton: {stageName: '', color: ''}, dpButton: {stageName: '', color: ''}}
     processesNames.forEach(function (processName) {
       item[processName + 'Button'] = addLastDocProcessStageButton(oppo, processName)
     })
@@ -249,24 +251,31 @@ function setVersion (version) {
 
 setAppVersion()
 
+$(function() {
+  var title = ''
 // register context menu
-$.contextMenu({
-  selector: '.contextMenu',
-  className: 'data-title',
-  callback: function(key, options) {
-    var m = "clicked: " + $(this).data('id');
-    window.console && console.log(m) || alert(m);
-  },
-  items: {
-    "sendFeed": {name: "Send Feed", icon: "edit"},
-   // "cut": {name: "Cut", icon: "cut"},
-    "copyId": {name: "Copy ID", icon: "copy"},
-    "newSubmission": {name: "New Submission", icon: "paste"},
-    "clearSf": {name: "Clear SF", icon: "delete"},
-    // "sep1": "---------",
-    // "quit": {name: "Quit", icon: function($element, key, item){ return 'context-menu-icon context-menu-icon-quit'; }}
-  }
-});
+  $.contextMenu({
+    selector: '.contextMenu',
+    events: {
+      show: function (options) {
+        $('.data-title').attr('data-menutitle', $(this).data('name').slice(0, 28))
+      }
+    },
+    className: 'data-title',
+    callback: function (key, options) {
+      title = $(this).data('name')
+      console.log(title)
+      var m = "clicked: " + $(this).data('id');
+    },
+    items: {
+      "sendFeed": {name: "Send Feed", icon: "edit"},
+      "copyId": {name: "Copy ID", icon: "copy"},
+      "newSubmission": {name: "New Submission", icon: "paste"},
+      "clearSf": {name: "Clear SF", icon: "delete"},
+      // "sep1": "---------",
+      // "quit": {name: "Quit", icon: function($element, key, item){ return 'context-menu-icon context-menu-icon-quit'; }}
+    }
+  })
 
 // set a title of menu
-$('.data-title').attr('data-menutitle', "Some Title");
+})

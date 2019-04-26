@@ -12,12 +12,14 @@
     <script src="js/jquery-ui.js"></script>
     <script src="scripts/contextmenu/jquery.contextMenu.min.js"></script>
     <script src="js/vue.js"></script>
+    <script src="js/date-manager.js"></script>
     <script src="js/log-modal.js"></script>
     <script src="js/files-attached-modal.js"></script>
     <script src="js/account-chosen-stage.js"></script>
     <script src="js/documents-download.js"></script>
     <script src="js/advances.js"></script>
     <script src="js/revenues.js"></script>
+    <script src="js/withdrawals.js"></script>
     <script src="js/polyfill.min.js"></script>
     <script src="js/bootstrap-vue.js"></script>
 </head>
@@ -41,7 +43,7 @@
             </b-navbar-nav>
         </b-collapse>
     </b-navbar>
-    <b-table dark bordered :items="items" :fields="fields" :processes="processes">
+    <b-table dark bordered :items="items" :fields="fields" :processes="processes" id="general-table">
         <template v-for="process in processes" :slot="process" slot-scope="row" class="text-center">
             <!-- we use @click.stop here to prevent emitting of a 'row-clicked' event  -->
             <div class="text-nowrap text-center">
@@ -76,6 +78,8 @@
     </advances-modal>
     <revenues-modal ref="revenuesModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName" v-bind:item-log="currentItemLog">
     </revenues-modal>
+    <withdrawals-modal ref="withdrawalsModal" v-bind:item-id="currentItemId" v-bind:stage-name="stageName" v-bind:item-log="currentItemLog">
+    </withdrawals-modal>
 </template>
 </div>
 
